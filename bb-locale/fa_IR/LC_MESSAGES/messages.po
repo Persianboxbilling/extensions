@@ -1,0 +1,5538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Persian Boxbilling\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-02-06 22:54+0330\n"
+"Last-Translator: Persianboxbilling <translate@persianboxbilling.ir>\n"
+"Language-Team: Persian Boxbilling <translate@PersianBoxbilling.ir>\n"
+"Language: Persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;Box_Exception\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SearchPath-0: bb-library/Api\n"
+"X-Poedit-SearchPath-1: bb-library/Box\n"
+"X-Poedit-SearchPath-2: bb-library/License\n"
+"X-Poedit-SearchPath-3: bb-library/Model\n"
+"X-Poedit-SearchPath-4: bb-modules\n"
+
+msgid "sq_AL"
+msgstr "Albanian (Albania)"
+
+msgid "ar_DZ"
+msgstr "Arabic (Algeria)"
+
+msgid "ar_BH"
+msgstr "Arabic (Bahrain)"
+
+msgid "ar_EG"
+msgstr "Arabic (Egypt)"
+
+msgid "ar_IQ"
+msgstr "Arabic (Iraq)"
+
+msgid "ar_JO"
+msgstr "Arabic (Jordan)"
+
+msgid "ar_KW"
+msgstr "Arabic (Kuwait)"
+
+msgid "ar_LB"
+msgstr "Arabic (Lebanon)"
+
+msgid "ar_LY"
+msgstr "Arabic (Libya)"
+
+msgid "ar_MA"
+msgstr "Arabic (Morocco)"
+
+msgid "ar_OM"
+msgstr "Arabic (Oman)"
+
+msgid "ar_QA"
+msgstr "Arabic (Qatar)"
+
+msgid "ar_SA"
+msgstr "Arabic (Saudi Arabia)"
+
+msgid "ar_SD"
+msgstr "Arabic (Sudan)"
+
+msgid "ar_SY"
+msgstr "Arabic (Syria)"
+
+msgid "ar_TN"
+msgstr "Arabic (Tunisia)"
+
+msgid "ar_AE"
+msgstr "Arabic (United Arab Emirates)"
+
+msgid "ar_YE"
+msgstr "Arabic (Yemen)"
+
+msgid "be_BY"
+msgstr "Belarusian (Belarus)"
+
+msgid "bg_BG"
+msgstr "Bulgarian (Bulgaria)"
+
+msgid "ca_ES"
+msgstr "Catalan (Spain)"
+
+msgid "zh_CN"
+msgstr "Chinese (China)"
+
+msgid "zh_HK"
+msgstr "Chinese (Hong Kong)"
+
+msgid "zh_SG"
+msgstr "Chinese (Singapore)"
+
+msgid "zh_TW"
+msgstr "Chinese (Taiwan)"
+
+msgid "hr_HR"
+msgstr "Croatian (Croatia)"
+
+msgid "cs_CZ"
+msgstr "Czech (Czech Republic)"
+
+msgid "da_DK"
+msgstr "Danish (Denmark)"
+
+msgid "nl_BE"
+msgstr "Dutch (Belgium)"
+
+msgid "nl_NL"
+msgstr "Dutch (Netherlands)"
+
+msgid "en_AU"
+msgstr "English (Australia)"
+
+msgid "en_CA"
+msgstr "English (Canada)"
+
+msgid "en_IN"
+msgstr "English (India)"
+
+msgid "en_IE"
+msgstr "English (Ireland)"
+
+msgid "en_MT"
+msgstr "English (Malta)"
+
+msgid "en_NZ"
+msgstr "English (New Zealand)"
+
+msgid "en_PH"
+msgstr "English (Philippines)"
+
+msgid "en_SG"
+msgstr "English (Singapore)"
+
+msgid "en_ZA"
+msgstr "English (South Africa)"
+
+msgid "en_GB"
+msgstr "English (United Kingdom)"
+
+msgid "en_US"
+msgstr "English (United States)"
+
+msgid "et_EE"
+msgstr "Estonian (Estonia)"
+
+msgid "fi_FI"
+msgstr "Finnish (Finland)"
+
+msgid "fr_BE"
+msgstr "French (Belgium)"
+
+msgid "fr_CA"
+msgstr "French (Canada)"
+
+msgid "fr_FR"
+msgstr "French (France)"
+
+msgid "fr_LU"
+msgstr "French (Luxembourg)"
+
+msgid "fr_CH"
+msgstr "French (Switzerland)"
+
+msgid "de_AT"
+msgstr "German (Austria)"
+
+msgid "de_DE"
+msgstr "German (Germany)"
+
+msgid "de_LU"
+msgstr "German (Luxembourg)"
+
+msgid "de_CH"
+msgstr "German (Switzerland)"
+
+msgid "el_CY"
+msgstr "Greek (Cyprus)"
+
+msgid "el_GR"
+msgstr "Greek (Greece)"
+
+msgid "iw_IL"
+msgstr "Hebrew (Israel)"
+
+msgid "hi_IN"
+msgstr "Hindi (India)"
+
+msgid "hu_HU"
+msgstr "Hungarian (Hungary)"
+
+msgid "is_IS"
+msgstr "Icelandic (Iceland)"
+
+msgid "in_ID"
+msgstr "Indonesian (Indonesia)"
+
+msgid "ga_IE"
+msgstr "Irish (Ireland)"
+
+msgid "it_IT"
+msgstr "Italian (Italy)"
+
+msgid "it_CH"
+msgstr "Italian (Switzerland)"
+
+msgid "ja_JP"
+msgstr "Japanese (Japan)"
+
+msgid "ja_JP_JP"
+msgstr "Japanese (Japan,JP)"
+
+msgid "ko_KR"
+msgstr "Korean (South Korea)"
+
+msgid "lv_LV"
+msgstr "Latvian (Latvia)"
+
+msgid "lt_LT"
+msgstr "Lithuanian (Lithuania)"
+
+msgid "mk_MK"
+msgstr "Macedonian (Macedonia)"
+
+msgid "ms_MY"
+msgstr "Malay (Malaysia)"
+
+msgid "mt_MT"
+msgstr "Maltese (Malta)"
+
+msgid "no_NO"
+msgstr "Norwegian (Norway)"
+
+msgid "no_NO_NY"
+msgstr "Norwegian (Norway,Nynorsk)"
+
+msgid "pl_PL"
+msgstr "Polish (Poland)"
+
+msgid "pt_BR"
+msgstr "Portuguese (Brazil)"
+
+msgid "pt_PT"
+msgstr "Portuguese (Portugal)"
+
+msgid "ro_RO"
+msgstr "Romanian (Romania)"
+
+msgid "ru_RU"
+msgstr "Russian (Russia)"
+
+msgid "sr_BA"
+msgstr "Serbian (Bosnia and Herzegovina)"
+
+msgid "sr_ME"
+msgstr "Serbian (Montenegro)"
+
+msgid "sr_CS"
+msgstr "Serbian (Serbia and Montenegro)"
+
+msgid "sr_RS"
+msgstr "Serbian (Serbia)"
+
+msgid "sk_SK"
+msgstr "Slovak (Slovakia)"
+
+msgid "sl_SI"
+msgstr "Slovenian (Slovenia)"
+
+msgid "es_AR"
+msgstr "Spanish (Argentina)"
+
+msgid "es_BO"
+msgstr "Spanish (Bolivia)"
+
+msgid "es_CL"
+msgstr "Spanish (Chile)"
+
+msgid "es_CO"
+msgstr "Spanish (Colombia)"
+
+msgid "es_CR"
+msgstr "Spanish (Costa Rica)"
+
+msgid "es_DO"
+msgstr "Spanish (Dominican Republic)"
+
+msgid "es_EC"
+msgstr "Spanish (Ecuador)"
+
+msgid "es_SV"
+msgstr "Spanish (El Salvador)"
+
+msgid "es_GT"
+msgstr "Spanish (Guatemala)"
+
+msgid "es_HN"
+msgstr "Spanish (Honduras)"
+
+msgid "es_MX"
+msgstr "Spanish (Mexico)"
+
+msgid "es_NI"
+msgstr "Spanish (Nicaragua)"
+
+msgid "es_PA"
+msgstr "Spanish (Panama)"
+
+msgid "es_PY"
+msgstr "Spanish (Paraguay)"
+
+msgid "es_PE"
+msgstr "Spanish (Peru)"
+
+msgid "es_PR"
+msgstr "Spanish (Puerto Rico)"
+
+msgid "es_ES"
+msgstr "Spanish (Spain)"
+
+msgid "es_US"
+msgstr "Spanish (United States)"
+
+msgid "es_UY"
+msgstr "Spanish (Uruguay)"
+
+msgid "es_VE"
+msgstr "Spanish (Venezuela)"
+
+msgid "sv_SE"
+msgstr "Swedish (Sweden)"
+
+msgid "th_TH"
+msgstr "Thai (Thailand)"
+
+msgid "tr_TR"
+msgstr "Turkish (Turkey)"
+
+msgid "uk_UA"
+msgstr "Ukrainian (Ukraine)"
+
+msgid "vi_VN"
+msgstr "Vietnamese (Vietnam)"
+
+msgid "Thread / Thread Starter"
+msgstr "موضوع / نویسنده موضوع"
+
+msgid "Last post"
+msgstr "آخرین ارسال"
+
+msgid "Replies"
+msgstr "پاسخ ها"
+
+msgid "Views"
+msgstr "بازدید ها"
+
+msgid "by"
+msgstr "توسط"
+
+msgid "The list is empty"
+msgstr "لیست خالی است."
+
+msgid "Forum list"
+msgstr "لیست انجمن"
+
+msgid "New topic"
+msgstr "تایپک جدید"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Start new topic in"
+msgstr "آغاز تایپک جدید در"
+
+msgid "Start new topic"
+msgstr "آغاز تایپک جدید"
+
+msgid "Topic title"
+msgstr "عنوان تایپک"
+
+msgid "Topic message"
+msgstr "متن تایپک"
+
+msgid "Create new topic"
+msgstr "ایجاد تایپک جدید"
+
+msgid "Login / Sign up"
+msgstr "ورود / ثبت نام"
+
+msgid "Sign In / Create new account"
+msgstr "ورود / ایجاد اکانت جدید"
+
+msgid "Become a member to participate in forum, contact support, order new services"
+msgstr "برای حضور در انجمن، ارتباط با پشتیبانی و یا سفارش سرویس ثبت نام کنید"
+
+msgid "Sign in"
+msgstr "ورود"
+
+msgid "Login to client area"
+msgstr "ورود به محیط کاربری"
+
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+msgid "Password"
+msgstr "گذرواژه"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Reset password"
+msgstr "بازنشانی گذرواژه"
+
+msgid "Do not have an account yet?"
+msgstr "هنوز اکانت ندارید؟"
+
+msgid "Enter your details below"
+msgstr "مشخصات را در ادامه وارد کنید"
+
+msgid "Create new profile"
+msgstr "ایجاد پروفایل جدید"
+
+msgid "First Name"
+msgstr "نام"
+
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+msgid "Company"
+msgstr "نام تجاری"
+
+msgid "Password confirm"
+msgstr "تایید گذرواژه"
+
+msgid "Thank you"
+msgstr "متشکریم"
+
+msgid "Payment for invoice received"
+msgstr "پرداخت صورت حساب دریافت شد"
+
+msgid "Your payment is being processed right now. This takes about 5 minutes to complete."
+msgstr "پرداخت شما هم اکنون آغاز شده است. این عملیات در حدود 5 دقیقه زمان می برد."
+
+msgid "You will be automatically redirected to invoice page after 5 minutes."
+msgstr "شما به صورت خودکار پس از پنج دقیقه به فاکتور منتقل خواهید شد."
+
+msgid "Invoices"
+msgstr "صورت حساب ها"
+
+msgid "List of invoices"
+msgstr "لیست صورت حساب ها"
+
+msgid "Invoice management"
+msgstr "مدیریت صورت حساب"
+
+msgid "Unpaid"
+msgstr "پرداخت نشده"
+
+msgid "Paid"
+msgstr "پرداخت شده"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Issue Date"
+msgstr "تاریخ صدور"
+
+msgid "Due Date"
+msgstr "سر رسید"
+
+msgid "Total"
+msgstr "کل"
+
+msgid "Pay"
+msgstr "پرداخت"
+
+msgid "Paid at"
+msgstr "پرداخت در"
+
+msgid "Forum"
+msgstr "انجمن"
+
+msgid "Welcome to our forums. If you wish to become a member and post, you have to be registered member."
+msgstr "به انجمن های ما خوش آمدید. در صورتی که تمایل به حضور در تایپک ها و ارسال تایپک دارید باید عضو شوید."
+
+msgid "Threads"
+msgstr "موضوعات"
+
+msgid "Posts"
+msgstr "ارسال ها"
+
+msgid "Forums are closed"
+msgstr "انجمن ها بسته شده اند."
+
+msgid "Favorite topics"
+msgstr "تایپک های محبوب"
+
+msgid "VPS management"
+msgstr "مدیریت سرور مجازی"
+
+msgid "Details"
+msgstr "مشخصات"
+
+msgid "Statistics"
+msgstr "آمار و ارقام"
+
+msgid "Manage"
+msgstr "مدیریت"
+
+msgid "Control panel"
+msgstr "کنترل پنل"
+
+msgid "State"
+msgstr "استان"
+
+msgid "Refresh"
+msgstr "بروزرسانی"
+
+msgid "Hostname"
+msgstr "عنوان میزبان"
+
+msgid "Plan"
+msgstr "بسته"
+
+msgid "Operating system"
+msgstr "سیستم عامل"
+
+msgid "IP address"
+msgstr "آدرس IP"
+
+msgid "Additional IP addresses"
+msgstr "آدرس های اضافی IP"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Root password"
+msgstr "گذرواژه روت"
+
+msgid "Change status"
+msgstr "تغییر وضعیت"
+
+msgid "VPS rebooting. Refresh page after a few moments."
+msgstr "سرور مجازی در حال ریبوت است. لطفا صفحه را تا لحظاتی دیگر بروز آوری کنید."
+
+msgid "Reboot"
+msgstr "ریبوت"
+
+msgid "VPS booting. Refresh page after a few moments."
+msgstr "سرور مجازی در حال بوت شدن است. لطفا صفحه را تا لحظاتی دیگر بروز آوری کنید."
+
+msgid "Boot"
+msgstr "بوت"
+
+msgid "VPS shutdown"
+msgstr "خاموشی سرور مجازی"
+
+msgid "Shutdown"
+msgstr "خاموش"
+
+msgid "Change hostname"
+msgstr "تغییر عنوان میزبان"
+
+msgid "Hostname changed"
+msgstr "عنوان میزبان تغییر یافت"
+
+msgid "New hostname"
+msgstr "عنوان میزبان جدید"
+
+msgid "Enter new hostname"
+msgstr "عنوان جدید میزبان را وارد نمایید"
+
+msgid "Change"
+msgstr "تغییر"
+
+msgid "Change operating system"
+msgstr "تغییر سیستم عامل"
+
+msgid "Operating system is being changed"
+msgstr "تغییر سیستم عامل آغاز شده است"
+
+msgid "New operating system"
+msgstr "سیستم عامل جدید"
+
+msgid "Change root password"
+msgstr "تغییر گذرواژه روت"
+
+msgid "Root password changed"
+msgstr "گذرواژه روت تغییر یافت"
+
+msgid "New password"
+msgstr "گذرواژه جدید"
+
+msgid "Enter new root password"
+msgstr "گذرواژه جدید روت را وارد نمایید"
+
+msgid "Bandwidth"
+msgstr "پهنای باند"
+
+msgid "Used"
+msgstr "استفاده شده"
+
+msgid "Free"
+msgstr "آزاد"
+
+msgid "Memory"
+msgstr "حافظه"
+
+msgid "Disk usage"
+msgstr "استفاده از دیسک"
+
+msgid "Boot up server to see statistics"
+msgstr "برای مشاهده آمار سرور را بوت کنید"
+
+msgid "Are you sure?"
+msgstr "آیا مطمئنید؟"
+
+msgid "VPS booting. Reload page after a few moments."
+msgstr "سرور مجازی در حال بوت شدن است. صفحه را تا چند لحظه دیگر بروزآوری کنید."
+
+msgid "Login details"
+msgstr "جزئیات ورود"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Open control panel"
+msgstr "باز کردن کنترل پنل"
+
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+
+msgid "Change client area password"
+msgstr "تغییر گذرواژه محیط کاربری"
+
+msgid "Client area password changed"
+msgstr "گذرواژه محیط کاربری تغییر یافت"
+
+msgid "Enter new password"
+msgstr "گذرواژه جدید را وارد نمایید"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Shopping cart"
+msgstr "سبد خرید"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Sign out"
+msgstr "خروج"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+msgid "Select language"
+msgstr "انتخاب زبان"
+
+msgid "Popular articles"
+msgstr "مقالات محبوب"
+
+msgid "Recent posts"
+msgstr "ارسال های اخیر"
+
+msgid "About us"
+msgstr "درباره ما"
+
+msgid "Terms and conditions"
+msgstr "شرایط و ظوابط"
+
+msgid "Privacy policy"
+msgstr "حریم خصوصی"
+
+msgid "Loading .."
+msgstr "در حال بارگذاری .."
+
+msgid "Incorrect please try again"
+msgstr "اشتباه است، دوباره تلاش کنید"
+
+msgid "Enter the words above"
+msgstr "کلمات بالا را وارد کنید"
+
+msgid "Support tickets"
+msgstr "تیکت های پشتیبانی"
+
+msgid "Need an answer? We are here to help"
+msgstr "به پاسخ نیاز دارید؟ ما آماده پاسخگویی هستیم"
+
+msgid "Id"
+msgstr "شماره"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Help desk"
+msgstr "مرکز پشتیبانی"
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Submitted"
+msgstr "ارسال شده در"
+
+msgid "ago"
+msgstr "پیش"
+
+msgid "Submit new ticket"
+msgstr "ارسال تیکت جدید"
+
+msgid "Submit new support ticket"
+msgstr "ارسال تیکت جدید پشتیبانی"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "Submit"
+msgstr "ارسال"
+
+msgid "Knowledge base"
+msgstr "دانش نامه"
+
+msgid "Blog"
+msgstr "وبلاگ"
+
+msgid "News & Announcements"
+msgstr "اخبار و اطلاعیه ها"
+
+msgid "Track our latest posts"
+msgstr "آخرین ارسال های ما را دنبال کنید"
+
+msgid "Read more.."
+msgstr "بیشتر بخوانید .."
+
+msgid "Centova Cast server"
+msgstr "سرور Centova Cast"
+
+msgid "Recent tracks"
+msgstr "دنبال های اخیر"
+
+msgid "Unable to connect to server"
+msgstr "نمی توان به سرور متصل شد"
+
+msgid "No recent tracks are available"
+msgstr "در دسترس نیست."
+
+msgid "Download file"
+msgstr "دانلود پرونده"
+
+msgid "Download"
+msgstr "دانلود"
+
+msgid "Back to emails"
+msgstr "بازگشت به ایمیل ها"
+
+msgid "From"
+msgstr "از"
+
+msgid "To"
+msgstr "به"
+
+msgid "Sent"
+msgstr "ارسال شده"
+
+msgid "Resend"
+msgstr "ارسال دوباره"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Back to list"
+msgstr "بازگشت به لیست"
+
+msgid "Topic information"
+msgstr "اطلاعات تایپک"
+
+msgid "Topic"
+msgstr "تایپک"
+
+msgid "Started By"
+msgstr "ارسال شده توسط "
+
+msgid "Messages"
+msgstr "پیام ها"
+
+msgid "Since"
+msgstr "پس از"
+
+msgid "Back to threads list"
+msgstr "بازگشت به لیست موضوعات"
+
+msgid "Reply"
+msgstr "پاسخ"
+
+msgid "Quote"
+msgstr "نقل قول"
+
+msgid "Post new message in forum"
+msgstr "ارسال پیام جدید در انجمن"
+
+msgid "Post"
+msgstr "ارسال"
+
+msgid "No replies in this topic"
+msgstr "پاسخی داده نشده"
+
+msgid "Processing payment ..."
+msgstr "پردازش پرداخت ..."
+
+msgid "Redirecting to payment gateway.."
+msgstr "انتقال به درگاه پرداخت ..."
+
+msgid "Please click here to continue if this page does not redirect automatically in 5 seconds"
+msgstr "در صورتی که این صفحه پس از 5 ثانیه منتقل شد، لطفا اینجا کلیک کنید"
+
+msgid "Quantity:"
+msgstr "تعداد"
+
+msgid "Total price:"
+msgstr "کل هزینه:"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Setup Price"
+msgstr "هزینه راه اندازی"
+
+msgid "Continue"
+msgstr "ادامه"
+
+msgid "Order now"
+msgstr "هم اکنون سفارش دهید"
+
+msgid "Proforma invoice"
+msgstr "فاکتور پروفورما"
+
+msgid "Proforma Invoice"
+msgstr "فاکتور پروفورما"
+
+msgid "Please choose payment type and pay for your chosen products."
+msgstr "لطفا نوع پرداخت را انتخاب کرده و هزینه سفارشات خود را بپردازید."
+
+msgid "Invoice"
+msgstr "صورت حساب"
+
+msgid "Invoice is paid"
+msgstr "صورت حساب پرداخت شده"
+
+msgid "Account"
+msgstr "اکانت"
+
+msgid "Company number"
+msgstr "شماره شرکت"
+
+msgid "VAT"
+msgstr "مالیات بر ارزش افزوده"
+
+msgid "Discount"
+msgstr "تخفیف"
+
+msgid "Pay by"
+msgstr "پرداخت با"
+
+msgid "Subscribe with"
+msgstr "مشترک شدن با "
+
+msgid "Total:"
+msgstr "مجموع:"
+
+msgid "Pay now"
+msgstr "هم اکنون بپردازید"
+
+msgid "Transactions"
+msgstr "معاملات"
+
+msgid "Transaction Date"
+msgstr "تاریخ تراکنش"
+
+msgid "Transaction ID"
+msgstr "شماره تراکنش"
+
+msgid "Gateway"
+msgstr "درگاه"
+
+msgid "Amount"
+msgstr "مبلغ"
+
+msgid "Actions"
+msgstr "عملیات"
+
+msgid "Print"
+msgstr "چاپ"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "No"
+msgstr "خیر"
+
+msgid "CPU"
+msgstr "پردازشگر"
+
+msgid "RAM"
+msgstr "RAM"
+
+msgid "Disk space"
+msgstr "فضای دیسک"
+
+msgid "Monthly price"
+msgstr "هزینه ماهیانه"
+
+msgid "Order confirm"
+msgstr "تایید سفارش"
+
+msgid "Order confirmation"
+msgstr "تایید سفارش"
+
+msgid "These are the products you have selected"
+msgstr "این ها محصولاتی هستند که شما انتخاب کرده اید"
+
+msgid "Product"
+msgstr "محصول"
+
+msgid "Period"
+msgstr "دوره"
+
+msgid "setup"
+msgstr "راه اندازی"
+
+msgid "Have a promo code?"
+msgstr "کوپن تخفیف دارید؟"
+
+msgid "Apply"
+msgstr "اعمال"
+
+msgid "Reset"
+msgstr "بازنشانی"
+
+msgid "Checkout"
+msgstr "بررسی نهایی"
+
+msgid "You have not selected any product"
+msgstr "شما هیچ محصولی انتخاب نکرده اید"
+
+msgid "Order new service"
+msgstr "سفارش سرویس جدید"
+
+msgid "Home"
+msgstr "خانه"
+
+msgid "Order"
+msgstr "سفارش"
+
+msgid "Knowledge Base"
+msgstr "دانش نامه"
+
+msgid "Contact us"
+msgstr "ارتباط با ما"
+
+msgid "Support"
+msgstr "پشتیبانی"
+
+msgid "Services"
+msgstr "سرویس ها"
+
+msgid "Emails"
+msgstr "ایمیل ها"
+
+msgid "Payment history"
+msgstr "تاریخچه پرداخت"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Affiliate statistics"
+msgstr "آمار سهامداران"
+
+msgid "#"
+msgstr "#"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "by "
+msgstr "توسط"
+
+msgid "Configure"
+msgstr "پیکربندی"
+
+msgid "The product/service you have chosen has the following configuration options for you to choose from."
+msgstr "محصول/سرویس انتخابی شما دارای تنظیماتی است که باید از سوی شما پیکربندی شوند."
+
+msgid "Payments history"
+msgstr "تاریخچه پرداخت ها"
+
+msgid "Here you can track your payments you have made and what you have been charged for"
+msgstr "در اینجا شما می توانید پرداخت های خود را ببینید و بررسی کنید چرا پرداخته اید."
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Add Funds"
+msgstr "افزایش اعتبار"
+
+msgid "Balance"
+msgstr "موجودی"
+
+msgid "Add funds in advance"
+msgstr "افزودن اعتبار"
+
+msgid "You can add funds to your account if you have active order."
+msgstr "شما تنها زمانی می توانید اعتبار بیفزایید که سفارش فعالی داشته باشید."
+
+msgid "Add funds"
+msgstr "افزایش اعتبار"
+
+msgid "Similiar articles"
+msgstr "مقالات مشابه"
+
+msgid "Knowledge base categories"
+msgstr "دسته بندی های دانش نامه"
+
+msgid "Terms and Conditions"
+msgstr "شرایط و ظوابط"
+
+msgid "Ticket ID"
+msgstr "شماره تیکت"
+
+msgid "Time opened"
+msgstr "تاریخ بازشدن"
+
+msgid "Related to"
+msgstr "مرتبط با"
+
+msgid "Service #"
+msgstr "سرویس #"
+
+msgid "Tickets list"
+msgstr "لیست تیکت ها"
+
+msgid "Close ticket"
+msgstr "بستن تیکت"
+
+msgid "Manage hosting account"
+msgstr "مدیریت اکانت میزبانی"
+
+msgid "Domain"
+msgstr "دامنه"
+
+msgid "Server IP"
+msgstr "IP سرور"
+
+msgid "Server Hostname"
+msgstr "عنوان میزبان سرور"
+
+msgid "Hosting plan"
+msgstr "بسته میزبانی"
+
+msgid "per month"
+msgstr "ماهیانه"
+
+msgid "Disk quota"
+msgstr "سهمیه دیسک"
+
+msgid "Manage domain"
+msgstr "مدیریت دامنه"
+
+msgid "Jump to cPanel"
+msgstr "ورود به cPanel"
+
+msgid "Reseller control panel"
+msgstr "کنترل پنل نمایندگی"
+
+msgid "Nameservers"
+msgstr "کارگزار ها"
+
+msgid "Nameserver 1"
+msgstr "کارگزار 1"
+
+msgid "Nameserver 2"
+msgstr "کارگزار 2"
+
+msgid "Nameserver 3"
+msgstr "کارگزار 3"
+
+msgid "Nameserver 4"
+msgstr "کارگزار 4"
+
+msgid "FTP details"
+msgstr "مشخصات FTP"
+
+msgid "Use these details to connect to your FTP account."
+msgstr "برای اتصال به FTP از این اطلاعات استفاده کنید"
+
+msgid "FTP IP"
+msgstr "FTP IP"
+
+msgid "FTP Username"
+msgstr "نام کاربری FTP"
+
+msgid "FTP Password"
+msgstr "گذرواژه FTP"
+
+msgid "Change account password"
+msgstr "تغییر گذرواژه حساب"
+
+msgid "Change your FTP cPanel SSH password."
+msgstr "تغییر گذرواژه FTP, cPanel, SSH"
+
+msgid "Password Confirm"
+msgstr "تایید گذرواژه"
+
+msgid "Change username"
+msgstr "تغییر نام کاربری"
+
+msgid "Change domain"
+msgstr "تغییر دامنه"
+
+msgid "Vps hostname"
+msgstr "عنوان میزبان سرور مجازی"
+
+msgid "Enter hostname for VPS: mydomain.com"
+msgstr "عنوان میزبان سرور مجازی را وارد کنید مانند: mydomain.com"
+
+msgid "OS template"
+msgstr "قالب سیستم عامل"
+
+msgid "Become Partner"
+msgstr "همکار شوید"
+
+msgid "Login and become partner"
+msgstr "وارد شده و همکار شوید"
+
+msgid "Manage profile"
+msgstr "مدیریت پروفایل"
+
+msgid "Allow to be listed in partners list"
+msgstr "اجازه جهت درج در لیست همکاران"
+
+msgid "Your website where you sell BoxBilling licenses"
+msgstr "وب سایت شما مکانی که شما لایسنس باکس بیلینگ می فروشید"
+
+msgid "URL to your logo"
+msgstr "آدرس برند شما"
+
+msgid "Update partner information"
+msgstr "بروز رسانی اطلاعات همکار"
+
+msgid "Public profile"
+msgstr "پروفایل عمومی"
+
+msgid "Purchase License"
+msgstr "خرید لایسنس"
+
+msgid "License key"
+msgstr "کلید لایسنس"
+
+msgid "Valid IPs"
+msgstr "IP های معتبر"
+
+msgid "Valid hostnames"
+msgstr "عنوان های میزبان معتبر"
+
+msgid "Valid versions"
+msgstr "نسخه های معتبر"
+
+msgid "Valid install paths"
+msgstr "وصله های نصبی معتبر"
+
+msgid "Profile details"
+msgstr "مشخصات پروفایل"
+
+msgid "Keep your profile up to date"
+msgstr "پروفایل خود را بروز کنید"
+
+msgid "Change Password"
+msgstr "تغییر گذرواژه"
+
+msgid "Gravatar"
+msgstr "گراواتار"
+
+msgid "Currency"
+msgstr "ارز"
+
+msgid "API"
+msgstr "API"
+
+msgid "Update profile"
+msgstr "تغییر پروفایل"
+
+msgid "Company Name"
+msgstr "عنوان تجاری"
+
+msgid "Phone Country Code"
+msgstr "کد کشوری تلفن"
+
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Address 2"
+msgstr "آدرس 2"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Zip/Postal Code"
+msgstr "کد پستی"
+
+msgid "API key"
+msgstr "کلید API"
+
+msgid "API key allows integration with external applications. You will need this key for authentication."
+msgstr "API به شما اجازه اتصال به دیگر نرم افزار ها را می دهد. شما به این اطلاعات نیاز دارید."
+
+msgid "Warning! Resetting the key will break existing applications using it."
+msgstr "توجه! بازنشانی کلید تمامی نرم افزار های متصل را قطع خواهد کرد."
+
+msgid "Your API key"
+msgstr "کلید API شما"
+
+msgid "Reset key"
+msgstr "بازنشانی کلید"
+
+msgid "Please register with"
+msgstr "لطفا ثبت نام کنید با"
+
+msgid "at "
+msgstr "در"
+
+msgid "to change your profile image. Gravatar image updates may not appear immediately."
+msgstr "تا بتوانید تصویر پروفایل خود را تغییر دهید. گراواتار شما بلافاصله تغییر نخواهد کرد."
+
+msgid "Your profile currency is"
+msgstr "ارز پروفایل شما:"
+
+msgid "Create new client profile if you want to manage your money in other currency"
+msgstr "اگر می خواهید ارز دیگری را نیز استفاده کنید پروفایل جدیدی ایجاد کنید"
+
+msgid "Your profile currency will be defined after your first order. Once your currency is set, all your profile accounting will be managed in that currency and can not be changed."
+msgstr "ارز پروفایل شما پس از اولین سفارش تعیین خواهد شد. پس از تعیین شدن ارز شما قابل تغییر نخواهد بود."
+
+msgid "Addons & extras"
+msgstr "افزودنی ها"
+
+msgid "Domain management"
+msgstr "مدیریت دامنه"
+
+msgid "Domain details"
+msgstr "جزئیات دامنه"
+
+msgid "Registration date"
+msgstr "تاریخ ثبت"
+
+msgid "Expires at"
+msgstr "تاریخ انقضا"
+
+msgid "Domain Secret"
+msgstr "سکرت دامنه"
+
+msgid "All domain names (except a .EU, .UK domain name) have a Domain (Transfer) Secret Key/Authorization Code (EPP Code) associated with them. This would be required if you want to transfer service."
+msgstr "تمامی دامنه ها دارای یک کلید سکرت برای انتقال است. در صورتی که قصد انتقال سرویس دارید به آن نیاز دارید."
+
+msgid "Get EPP code"
+msgstr "تهیه کد EPP"
+
+msgid "Domain Protection"
+msgstr "حفاظت از دامنه"
+
+msgid "Domain locking is a security enhancement to prevent unauthorized transfers of your domain to another registrar or web host by \"locking\" your domain name servers."
+msgstr "قفل کردن دامنه یک امر امنیتی جهت جلوگیری از استفاده دیگر افراد از دامنه شما و یا ثبت آن می باشد."
+
+msgid "Unlock"
+msgstr "بازگشایی"
+
+msgid "Lock"
+msgstr "قفل کردن"
+
+msgid "Domain Privacy Settings"
+msgstr "تنظیمات حریم خصوصی"
+
+msgid "If you would like to hide domain contact information which is shown on WHOIS you can enable privacy protection. Once domain privacy protection is enabled no one will know who registered this service. And once you decide to disable privacy protection, information that is listed above on \"Update Domain Contact Details\" section will be seen on domain WHOIS again."
+msgstr "اگر تمایل دارید که اطلاعاتی که از دامنه شما با WHOIS نمایان می شود، دیگر نمایش داده نشود حریم خصوصی دامنه خود را فعال کنید."
+
+msgid "Disable Privacy protection"
+msgstr "غیرفعال سازی حریم خصوصی دامنه"
+
+msgid "Enable Privacy protection"
+msgstr "فعال سازی حریم خصوصی دامنه"
+
+msgid "Domain Nameservers"
+msgstr "کارگزار های دامنه"
+
+msgid "If you would like to host this domain with another company you can update nameservers."
+msgstr "اگر شما می خواهید دامنه خود را به سرویس میزبانی شرکت دیگری متصل کنید کارگزار های خود را بروزرسانی کنید."
+
+msgid "Update nameservers"
+msgstr "بروز رسانی کارگزار ها"
+
+msgid "Update"
+msgstr "بروز رسانی"
+
+msgid "Domain Contact Details"
+msgstr "اطلاعات تماس دامنه"
+
+msgid "Domain contact details will be displayed once someone will check WHOIS output (which is public) of your service. This will update Technical, Billing and Admin contacts for this service. You can enable domain privacy protection if you want to hide your public WHOIS information."
+msgstr "اطلاعات تماس دامنه از طریق عملیات WHOIS نمایان خواهند شد."
+
+msgid "Update domain contact details"
+msgstr "بروز رسانی اطلاعات تماس دامنه"
+
+msgid "Address Line 1"
+msgstr "آدرس خط 1"
+
+msgid "Address Line 2"
+msgstr "آدرس خط 2"
+
+msgid "Zip"
+msgstr "کد پستی"
+
+msgid "Phone number"
+msgstr "شماره تماس"
+
+msgid "How to reset my password?"
+msgstr "چگونه گذرواژه ام را بازنشانی کنم؟"
+
+msgid "Enter your email to reset password. You will receive new password after reset link is confirmed."
+msgstr "ایمیل خود را وارد کنید. پس از تایید از طریق لینک تایید گذرواژه جدید برای شما ارسال خواهد شد."
+
+msgid "Password reset confirmation email was sent"
+msgstr "ایمیل تایید بازنشانی گذرواژه ارسال شد"
+
+msgid "License details"
+msgstr "مشخصات لایسنس"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "All ips"
+msgstr "تمامی IPها"
+
+msgid "Valid Domains"
+msgstr "دامنه های معتبر"
+
+msgid "All hosts"
+msgstr "تمامی میزبان ها"
+
+msgid "Valid Versions"
+msgstr "نسخه های معتبر"
+
+msgid "All versions"
+msgstr "تمامی نسخه ها"
+
+msgid "Valid Install paths"
+msgstr "وصله های نصبی معتبر"
+
+msgid "All paths"
+msgstr "تمامی وصله ها"
+
+msgid "Reset license"
+msgstr "لایسنس های اخیر"
+
+msgid "You can reset your license parameters if you have changed your server"
+msgstr "شما می توانید پارامتر های لایسنس خود را بروز رسانی کنید اگر سرور خود را تغییر داده اید"
+
+msgid "Ticket details"
+msgstr "مشخصات تیکت"
+
+msgid "Author"
+msgstr "نویسنده"
+
+msgid "Please configure domain for your hosting account"
+msgstr "لطفا دامنه خود را برای اکانت میزبانی پیکربندی کنید"
+
+msgid "Use own"
+msgstr "استفاده از مال خودم"
+
+msgid "Transfer"
+msgstr "انتقال"
+
+msgid "I will use my existing domain and update nameservers"
+msgstr "من از دامنه خودم استفاده خواهم کرد و کارگزار های آن را بروز خواهم کرد"
+
+msgid "Enter your domain name"
+msgstr "نام دامنه خود را وارد کنید"
+
+msgid "Register a new domain"
+msgstr "دامنه جدید ثبت کنید"
+
+msgid "Check"
+msgstr "بررسی"
+
+msgid "Transfer your domain from another registrar"
+msgstr "دامنه خود را از یک ثبت کننده دیگر منتقل کنید"
+
+msgid "Transfer price"
+msgstr "هزینه انتقال"
+
+msgid "Enter domain transfer code"
+msgstr "کد انتقال خود را وارد کنید"
+
+msgid " Year/s @ "
+msgstr "سالیانه"
+
+msgid "My Products & Services"
+msgstr "محصولات و سرویس های من"
+
+msgid "Ordered Services"
+msgstr "سرویس های سفارش داده شده"
+
+msgid "Product/Service"
+msgstr "محصول/سرویس"
+
+msgid "Next due date"
+msgstr "تاریخ بعدی سررسید"
+
+msgid "Service details"
+msgstr "مشخصات سرویس"
+
+msgid "All information about your service"
+msgstr "تمامی اطلاعات سرویس شما"
+
+msgid "Product name"
+msgstr "عنوان محصول"
+
+msgid "Payment amount"
+msgstr "قیمت محصول"
+
+msgid "Billing cycle"
+msgstr "چرخه حسابداری"
+
+msgid "Order status"
+msgstr "وضعیت سفارش"
+
+msgid "Order created"
+msgstr "سفارش ایجاد شد"
+
+msgid "Activated at"
+msgstr "فعال شده در"
+
+msgid "Renewal date"
+msgstr "تاریخ تمدید"
+
+msgid "Order notes"
+msgstr "یادداشت های سفارش"
+
+msgid "Active support tickets"
+msgstr "تیکت های پشتیبانی فعال"
+
+msgid "Renew now"
+msgstr "هم اکنون تمدید کنید"
+
+msgid "Request Upgrade"
+msgstr "درخواست ارتقا"
+
+msgid "Open ticket"
+msgstr "باز کردن تیکت"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Request Cancellation"
+msgstr "درخواست لغو"
+
+msgid "I would like to cancel"
+msgstr "من می خواهم که لغو کنم"
+
+msgid "Reason"
+msgstr "دلیل"
+
+msgid "Open new support ticket regarding this order"
+msgstr "یک تیکت پشتیبانی مرتبط با این سفارش باز کنید"
+
+msgid "Submit new support ticket. Ticket will be visible in support section after submission"
+msgstr "تیکت پشتیبانی جدید ارسال کنید. تیکت پس از تایید در بخش پشتیبانی نمایان خواهد شد"
+
+msgid "Request upgrade"
+msgstr "درخواست ارتقا"
+
+msgid "I would like to upgrade"
+msgstr "من می خواهم ارتقا بدهم"
+
+msgid "Upgrade to"
+msgstr "ارتقا به"
+
+msgid "Notes"
+msgstr "یادداشت"
+
+msgid "Request"
+msgstr "درخواست"
+
+msgid "Addons you have ordered with this service"
+msgstr "افزودنی هایی که با سرویس خود سفارش داده اید"
+
+msgid "Billing Cycle"
+msgstr "چرخه حسابداری"
+
+msgid "Back to services"
+msgstr "بازگشت به سرویس ها"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "Select Product"
+msgstr "انتخاب محصول"
+
+msgid "Choose products we offer for selling"
+msgstr "محصولاتی که ما به شما پیشنهاد می دهیم انتخاب کنید"
+
+msgid "Starting from:"
+msgstr "شروع از:"
+
+msgid "View products"
+msgstr "مشاهده محصولات"
+
+msgid "Select product"
+msgstr "انتخاب محصول"
+
+msgid "Confirm"
+msgstr "تایید"
+
+msgid "What are you looking for?"
+msgstr "به دنبال چه می گردید؟"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Try using other keyword. No matches not for keyword:"
+msgstr "از کلمات کلیدی دیگری استفاده کنید. نتیجه ای یافت نشد برای:"
+
+msgid "Affiliates"
+msgstr "بازاریابی"
+
+msgid "Client Area"
+msgstr "محیط کاربری"
+
+msgid "Tickets waiting your reply"
+msgstr "تیکت های که منتظر پاسخ شما هستند"
+
+msgid "ID"
+msgstr "شماره"
+
+msgid "All Invoices"
+msgstr "تمامی فاکتورها"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Soon expires"
+msgstr "بزودی منقضی می شود"
+
+msgid "All services"
+msgstr "تمامی سرویس ها"
+
+msgid "New order"
+msgstr "سفارش جدید"
+
+msgid "Tickets"
+msgstr "تیکت ها"
+
+msgid "Open"
+msgstr "بازکردن"
+
+msgid "On Hold"
+msgstr "در دست بررسی"
+
+msgid "All tickets"
+msgstr "تمامی تیکت ها"
+
+msgid "New ticket"
+msgstr "تیکت جدید"
+
+msgid "Recent orders"
+msgstr "سفارشات اخیر"
+
+msgid "Recent emails"
+msgstr "ایمیل های اخیر"
+
+msgid "Order products and services"
+msgstr "دیگر محصولات و سرویس ها"
+
+msgid "Become a member and manage services"
+msgstr "عضو شوید و سرویس ها را مدیریت کنید"
+
+msgid "Contact Us"
+msgstr "ارتباط با ما"
+
+msgid "Contact us for more information"
+msgstr "برای کسب اطلاعات بیشتر با ما تماس بگیرید"
+
+msgid "Announcements"
+msgstr "اطلاعیه ها"
+
+msgid "Latest news & announcements"
+msgstr "آخرین اخبار و اطلاعیه ها"
+
+msgid "Browse our KB for answers and FAQs"
+msgstr "دانش نامه ما را برای یافتن پاسخ های خود بگردید"
+
+msgid "Invoicing Software"
+msgstr "نرم افزار صورت حساب ها"
+
+msgid "Powered by BoxBilling invoicing software"
+msgstr "قدرت یافته از باکس بیلینگ، نرم افزار حسابداری"
+
+msgid "Example module"
+msgstr "ماژول نمونه"
+
+msgid "Example module title"
+msgstr "عنوان ماژول نمونه"
+
+msgid "See protected content"
+msgstr "محتویات حفاظت شده را ببینید"
+
+msgid "This content can be seen only if client is logged in"
+msgstr "این محتویات را فقط می توانید زمانی ببینید که وارد شوید"
+
+msgid "Your protected content"
+msgstr "مشاهده محتویات حفاظت شده"
+
+msgid "Register new domain"
+msgstr "ثبت دامنه جدید"
+
+msgid "Transfer my domain"
+msgstr "انتقال دامنه من"
+
+msgid "Check domain availability"
+msgstr "بررسی وضعیت دامنه"
+
+msgid "Enter new domain name to register"
+msgstr "نام دامنه را جهت ثبت وارد کنید"
+
+msgid "I want to use my nameservers"
+msgstr "من می خواهم کارگزار های خودم را استفاده کنم"
+
+msgid "Enter your domain name to transfer"
+msgstr "دامنه خود را برای انتقال وارد کنید"
+
+msgid "Select currency"
+msgstr "انتخاب ارز"
+
+msgid "Emails we have sent you"
+msgstr "ایمیل هایی که ما به شما ارسال کردیم"
+
+msgid "Here you can track emails we have sent you"
+msgstr "اینجا می توانید ایمیل هایی که ما به شما ارسال کرده ایم را مشاهده کنید"
+
+msgid "Email subject"
+msgstr "موضوع ایمیل"
+
+msgid "Date sent"
+msgstr "تاریخ ارسال"
+
+msgid "Could not connect to whois :server server"
+msgstr "نمی توان به سرور هویز :server متصل شد"
+
+msgid "Error creating "
+msgstr "خطا در ایجاد"
+
+msgid "Only active orders can be suspended"
+msgstr "فقط سفارشات فعال قادر به مسدود شدن هستند"
+
+msgid "Can not cancel "
+msgstr "نمی توان لغو کرد"
+
+msgid "Service "
+msgstr "سرویس"
+
+msgid "Can not remove hosting plan which has active accounts"
+msgstr "نمی توان بسته های میزبانی که مشتری ها آن ها را ثبت کرده اند استفاده کرد"
+
+msgid "Invoice item title is missing"
+msgstr "عنوان آیتم صورت حساب گم شده است"
+
+msgid ":product setup"
+msgstr "راه اندازی :product"
+
+msgid "Could not activate proforma item. Order :id not found"
+msgstr "نمی توان آیتم پرفورما را فعال کرد. سفارش :id یافت نشد"
+
+msgid "Filename is missing in product config."
+msgstr "عنوان پرونده در پیکربندی محصول گم شده است"
+
+msgid "Parameter :param does not exist"
+msgstr "پارامتر :param در دسترس نیست"
+
+msgid "Theme was not found in path :path"
+msgstr "پوسته در :path یافت نشد"
+
+msgid "Theme manifest file :file was not found"
+msgstr "فایل مشخصات پوسته :file یافت نشد"
+
+msgid "Unable to decode theme manifest file :file"
+msgstr "نمی توان فایل مشخصات :file را دیکد کرد"
+
+msgid "Please check if you have configured FTP layer properly in Configuration > General settings > FTP layer."
+msgstr "لطفا بررسی کنید که FTP را در پیکربندی»تنظیمات عمومی»FTP تنظیم کرده باشید."
+
+msgid "Please make sure that FTP Root is defined properly. Could not find bb-config.php file in :path"
+msgstr "لطفا بررسی کنید که روت FTP به درستی تنظیم شده است. نمی توان فایل bb-config.php را در :path یافت."
+
+msgid "You have reached free version limit. Upgrade to PRO version of BoxBilling if you want this limit removed."
+msgstr "شما با محدودیت های نسخه رایگان برخورد کرده اید. به نسخه PRO ارتقا دهید تا این محدودیت حذف شود."
+
+msgid "BoxBilling license key must be defined in bb-config.php file as BB_LICENSE constant."
+msgstr "کلید لایسنس باکس بیلینگ باید در فایل bb-config.php یافت شود."
+
+msgid "PHP curl extension is disabled on your server. Please enable php curl extension."
+msgstr "تابع curl در سرور شما غیرفعال است. لطفا تابع curl را فعال کنید."
+
+msgid "Can not remove group with clients"
+msgstr "نمی توان گروهی که مشتری در آن هست را حذف کرد"
+
+msgid "Could not find main domain product"
+msgstr "نمی توان دامنه اصلی محصول را یافت"
+
+msgid "Hosting product must have domain configuration"
+msgstr "بسته میزبانی می بایست دامنه داشته باشد"
+
+msgid "Domain action is missing"
+msgstr "عملیات دامنه گم شده است"
+
+msgid "Hosting product must have defined register_sld parameter"
+msgstr "بسته میزبانی می بایست دارای پارامتر ثبت _sld تعیین شده باشد"
+
+msgid "Hosting product must have defined register_tld parameter"
+msgstr "بسته میزبانی می بایست دارای پارامتر ثبت _tld تعیین شده باشد"
+
+msgid "Hosting product must have defined transfer_sld parameter"
+msgstr "بسته میزبانی می بایست دارای پارامتر انتقال _sld تعیین شده باشد"
+
+msgid "Hosting product must have defined transfer_tld parameter"
+msgstr "بسته میزبانی می بایست دارای پارامتر انتقال _tld تعیین شده باشد"
+
+msgid "Can not remove category which has articles"
+msgstr "نمی توان دسته بندی که مقاله دارد حذف کرد"
+
+msgid "Hosting product is not configured completely. Configure server for hosting product."
+msgstr "بسته میزبانی به طور کامل پیکربندی نشده است. سرور را  برای بسته میزبانی پیکربندی کنید."
+
+msgid "Hosting product is not configured completely. Configure hosting plan for hosting product."
+msgstr "بسته میزبانی به طور کامل پیکربندی نشده است. بسته میزبانی را برای بسته میزبانی پیکربندی کنید."
+
+msgid "Domain name is not valid."
+msgstr "دامنه معتبر نیست."
+
+msgid "Domain extension is not valid."
+msgstr "پسوند دامنه معتبر نیست."
+
+msgid "Server from order configuration was not found"
+msgstr "سرور سفارش پیکربندی شده یافت نشد"
+
+msgid "Hosting plan from order configuration was not found"
+msgstr "بسته میزبانی سفارش پیکربندی شده یافت نشد"
+
+msgid "Could not activate order. Service was not created"
+msgstr "نمی توان سفارش را فعال کرد. سرویس ایجاد نشد"
+
+msgid "Order :id has no active service"
+msgstr "سفارش :id هیچ سرویس فعالی ندارد"
+
+msgid "Account password is missing or is not valid"
+msgstr "گذرواژه اکانت گم شده است یا معتبر نیست"
+
+msgid "Account ip is missing or is not valid"
+msgstr "IP اکانت گم شده است و یا معتبر نیست"
+
+msgid "Domain sld or tld is missing"
+msgstr "sld و یا tld دامنه گم شده است"
+
+msgid "Can not refund invoice with negative amount"
+msgstr "نمی توان فاکتور را با مقدار منفی پرداخت"
+
+msgid "You must have at least one active order before you can add funds so you cannot proceed at the current time!"
+msgstr "شما می بایست حداقل یک سفارش فعال داشته باشید تا بتوانید به حساب خود اعتبار بیفزایید بنابرین هم اکنون نمی توانید."
+
+msgid "Amount is not valid"
+msgstr "مقدار معتبر نیست"
+
+msgid "Payment for invoice :serie:id [:title]"
+msgstr "پرداخت فاکتور :serie:id [:title]"
+
+msgid "Payment for invoice :serie:id"
+msgstr "پرداخت فاکتور :serie:id "
+
+msgid "Can not remove invoice. It was paid but services were not activated"
+msgstr "نمی توان صورت حساب را حذف کرد. صورت حساب پرداخت شده ولی فعال نشده است"
+
+msgid "License plugin :plugin was not found"
+msgstr "لایسنس افزونه :plugin یافت نشد"
+
+msgid "License plugin do not have generate method"
+msgstr "لایسنس پلاگین متدی ایجاد نکرده است"
+
+msgid "Custom plugin method :method is forbidden"
+msgstr "متد شخصی پلاگین، :method ممنوع است"
+
+msgid "Plugin class file :file was not found"
+msgstr "پرونده کلاس افزونه، :file یافت نشد"
+
+msgid "Plugin :plugin does not support action :action"
+msgstr "افزونه :plugin از :action پشتیبانی نمی کند"
+
+msgid "Can not remove helpdesk which has tickets"
+msgstr "نمی توان مرکز پشتیبانی دارای تیکت را حذف کرد"
+
+msgid "Currency conversion rate can be zero"
+msgstr "نرخ تبدیل ارز نمی تواند برابر صفر باشد"
+
+msgid "Can not remove default currency"
+msgstr "نمی توان ارز پیشفرض را حذف کرد"
+
+msgid "This administrator account is protected and can not be removed"
+msgstr "اکانت مدیریت محافظت شده و نمی تواند حذف شود"
+
+msgid ":product_title"
+msgstr ":product_title"
+
+msgid "Can not remove product category with products"
+msgstr "نمی توان دسته بندی دارای محصول را حذف کرد"
+
+msgid "Module :mod manifest file is missing"
+msgstr "پرونده مشخصات ماژول :mod گم شده است"
+
+msgid "Module :mod manifest file is not valid. Check file syntax and permissions."
+msgstr "مشخصات ماژول :mod معتبر نیستند. دسترسی و سینتکس را بررسی کنید"
+
+msgid "BoxBilling module :module not found. Was it installed?"
+msgstr "ماژول :module باکس بیلینگ یافت نشد. نصب شده بود؟"
+
+msgid "BoxBilling core modules can not be installed or removed"
+msgstr "ماژول هسته باکس بیلینگ نمی تواند نصب و یا حذف شود"
+
+msgid "Module can not be installed. It requires at least :min version of BoxBilling. You are using :v"
+msgstr "ماژول نمی تواند نصب شود. این ماژول حداقل به نسخه :min نیاز دارد اما شما از نسخه :v استفاده می کنید."
+
+msgid "Could not retrieve version information for extension :ext"
+msgstr "نمی توان اطلاعات نسخه افزودنی :ext یا شناسایی کرد"
+
+msgid "Latest :mod version installed. No need to update"
+msgstr "آخرین نسخه :mod نصب است. نیازی به بروز رسانی نیست."
+
+msgid "Could not retrieve :ext information"
+msgstr "نمی توان اطلاعات :ext را بازیابی کرد"
+
+msgid "Visit extension site for update information."
+msgstr "از مخزن افزودنی ها را برای بررسی بروز رسانی بازدید کنید"
+
+msgid "BoxBilling core modules can not be managed"
+msgstr "ماژول های هسته باکس بیلینگ نمی توانند مدیریت شوند"
+
+msgid "Could not extract extension zip file"
+msgstr "نمی توان بسته فشرده zip را استخراج کرد"
+
+msgid "Module already installed."
+msgstr "این ماژول پیشتر نصب شده است."
+
+msgid "Extension can not be moved. Make sure your server write permissions to bb-modules folder."
+msgstr "افزودنی نمی تواند منتقل شود. مطمئن شوید پوشه bb-modules قابل نوشتن باشد."
+
+msgid "Extension can not be moved. Make sure your server write permissions to bb-themes folder."
+msgstr "افزودنی نمی تواند منتقل شود. مطمئن شوید پوشه bb-themes قابل نوشتن باشد."
+
+msgid "Extension can not be moved. Make sure your server write permissions to bb-locale folder."
+msgstr "افزودنی نمی تواند منتقل شود. مطمئن شوید پوشه bb-locale قابل نوشتن باشد."
+
+msgid "Extension does not support auto-install deature. Extension must be installed manually"
+msgstr "افزودنی از نصب خودکار پشتیبانی نمی کند و باید دستی نصب شود."
+
+msgid "Unable to connect to BoxBilling extensiosn site."
+msgstr "نمی توان به مخزن باکس بیلینگ متصل شد."
+
+msgid "Administrators group can not be removed"
+msgstr "گروه مدیریت نمی تواند حذف شود."
+
+msgid "Can not remove group which has staff members"
+msgstr "نمی توان گروهی که کارمند دارد را حذف کرد"
+
+msgid "This is a last message in topic. Remove topic in order to remove this message."
+msgstr "این آخرین پیام در این موضوع است. تایپک ها را به ترتیب برای حذف پیام پاک کنید."
+
+msgid "Payment gateway :adapter was not found"
+msgstr "درگاه پرداخت :adapter یافت نشد"
+
+msgid "Invalid payment adapter :adapter"
+msgstr "آداپتر پرداخت نامعتبر : :adapter"
+
+msgid "Are you registering new domain or transfering existing? Action parameter missing."
+msgstr "آیا شما در حال ثبت دامنه هستید و یا انتقال می دهید؟ عملیات گم شده است"
+
+msgid "Invalid domain action."
+msgstr "عملیات دامنه نامعتبر است."
+
+msgid "Order data must contain :field configuration field"
+msgstr "سفارش شما می بایست دارای فیلد پیکربندی :field باشد"
+
+msgid "Domain name :domain is not valid"
+msgstr "دامنه :domain معتبر نیست"
+
+msgid "Domain TLD is not valid."
+msgstr "پسوند دامنه معتبر نیست"
+
+msgid "Domain name is required."
+msgstr "وارد کردن نام دامنه الزامی می باشد."
+
+msgid "Transfer domain type (tld) is required."
+msgstr "نوع دامنه جهت انتقال الزامیست (TLD)"
+
+msgid "Transfer domain name (sld) is required."
+msgstr "نام دامنه جهت انتقال (SLD) الزامیست"
+
+msgid "Transfer code is required for domains transfers."
+msgstr "کد انتقال جهت انتقال دامنه نیاز است"
+
+msgid "TLD not found"
+msgstr "TLD یافت نشد"
+
+msgid ":domain can not be transfered!"
+msgstr ":domain نمی تواند منتقل شود."
+
+msgid "Domain registration tld parameter missing."
+msgstr "پارامتر TLD دامنه گم شده است"
+
+msgid "Domain registration sld parameter missing."
+msgstr "پارامتر SLD دامنه گم شده است"
+
+msgid "Years parameter is missing for domain configuration."
+msgstr "پارامتر سال در پیکربندی دامنه گم شده است"
+
+msgid ":tld can be registered for at least :years years"
+msgstr ":tld حداقل برای :years سال می تواند ثبت شود"
+
+msgid ":domain is already registered!"
+msgstr ":domain پیشتر ثبت شده است!"
+
+msgid "Default domain nameservers are not configured"
+msgstr "کارگزار های پیشفرض دامنه تنظیم نشده اند"
+
+msgid "Nameserver 1 is required"
+msgstr "وارد کردن کارگزار 1 الزامی می باشد"
+
+msgid "Nameserver 2 is required"
+msgstr "وارد کردن کارگزار 2 الزامی می باشد"
+
+msgid "Required field contact is missing"
+msgstr "فیلد الزامی تماس گم شده است"
+
+msgid "Required field :field is missing"
+msgstr "فیلد الزامی :field گم شده است"
+
+msgid "Domain name is not valid"
+msgstr "نام دامنه معتبر نیست"
+
+msgid "Domain can not be transfered"
+msgstr "دامنه نمی تواند منتقل شود"
+
+msgid "Domain can not be registered"
+msgstr "دامنه نمی تواند ثبت شود"
+
+msgid "Period parameter not passed"
+msgstr "پارامتر دوره قبول نشد"
+
+msgid "I'm afraid we are out of stock."
+msgstr "متاسفم، تمام کردیم!"
+
+msgid "Addon period parameter not passed"
+msgstr "پارامتر دوره افزودنی پذیرفته نشد"
+
+msgid "Product not found"
+msgstr "محصول یافت نشد"
+
+msgid "Add products to cart before applying promo code"
+msgstr "برای اعمال کوپن تخفیف لطفا محصولی را سفارش دهید"
+
+msgid "Currency can not be changed. Client already have invoices issued."
+msgstr "ارز نمی تواند تغییر یابد. مشتری پیشتر فاکتور ثبت کرده است."
+
+msgid "Currency can not be changed. Client already have orders."
+msgstr "ارز نمی تواند تغییر یابد. مشتری پیشتر سفارش ثبت کرده است."
+
+msgid "Could not determine domain price. Domain action is missing"
+msgstr "نمی توان هزینه دامنه را تعیین کرد. عملیات دامنه گم شده است"
+
+msgid "Unknown TLD. Could not determine registration price"
+msgstr "پسوند ناشناخته. نمی توان هزینه دامنه را تعیین کرد"
+
+msgid "Domain product can not be removed."
+msgstr "محصول دامنه نمی تواند حذف شود."
+
+msgid "Unknown transaction #:id type: :type"
+msgstr "معامله تراکنش شماره :id نوع: :type"
+
+msgid "Could not determine transaction origin. Transaction payment gateway is unknown."
+msgstr "منشا تراکنش مشخص نیست. درگاه پرداخت تراکنش ناشناخته است."
+
+msgid "Can not handle transaction received from unknown payment gateway: :id"
+msgstr "نمی توان اطلاعات دریافت شده از درگاه پرداخت ناشناخته :id را خواند"
+
+msgid "Transaction :id is not associated with an invoice."
+msgstr "تراکنش :id دارای صورت حساب نیست."
+
+msgid "Invoice #:id not found"
+msgstr "صورت حساب #:id یافت نشد"
+
+msgid "Instant payment notification (IPN) did not pass gateway :id validation"
+msgstr "پیام شناسایی درگاه پرداخت :id پذیرفته نشد"
+
+msgid "Payment gateway :id method getTransaction should return Payment_Transaction object"
+msgstr "مشکلی در بازخورد درگاه پرداخت وجود دارد"
+
+msgid "Can not create subscription. Subscription id from payment gateway was not received"
+msgstr "نمی توان اشتراک را ایجاد کرد. شماره اشتراک از درگاه دریافت نشد"
+
+msgid "Subscription #:id was not found. Could not unsusbscribe"
+msgstr "اشتراک #:id یافت نشد. نمی توان مشترک شد"
+
+msgid "Only approved transaction can be processed"
+msgstr "فقط معاملات تایید شده می توانند پردازش شوند"
+
+msgid "Transaction currency :code do not match required currency :required"
+msgstr "ارز معامله، :code با ارز :required همخواهی ندارد"
+
+msgid "Transaction status on payment gateway is Pending. Only Complete or Unknown transactions can be processed."
+msgstr "وضعیت تراکنش در درگاه پرداخت در دست بررسی است. فقط کامل شده یا و یا ناشناخته ها قابل پردازش است."
+
+msgid "Define clients currency before adding funds."
+msgstr "ارز مشتریان را پیش از افزایش اعتبار تعیین کنید."
+
+msgid "Funds amount is not valid"
+msgstr "مقدار اعتبار معتبر نیست"
+
+msgid "Funds description is not valid"
+msgstr "توضیحات ارز معتبر نیست"
+
+msgid "Client currency do not match invoice currency"
+msgstr "ارز مشتری با ارز فاکتور همخوانی ندارد"
+
+msgid "Can not add negative amount to client balance for debit transaction"
+msgstr "نمی توان به مشتری اعتبار منفی افزود"
+
+msgid "Conversion rate can't be 0"
+msgstr "نرخ تبدیل ارز نمی تواند صفر باشد"
+
+msgid "Product pricing could not be determined. "
+msgstr "هزینه محصول نمی تواند تعیین شود."
+
+msgid "Repo class for product was not found"
+msgstr "محصول در مخزن یافت نشد"
+
+msgid "Unknown Period selected for setup price"
+msgstr "دوره ناشناخته برای هزینه راه اندازی"
+
+msgid "Product :id payment type is recurrent, but period was not selected"
+msgstr "نوع پرداخت محصول :id دوره ای است، اما دوره انتخاب نشده است"
+
+msgid "Unknown Period selected for price"
+msgstr "دوره ناشناخته ای برای قیمت انتخاب شده"
+
+msgid "Can not remove product which has active orders."
+msgstr "نمی توان محصولی که سفارش فعال دارد حذف کرد."
+
+msgid "Invalid server manager. Server was not configured properly."
+msgstr "کنترل پنل سرور نامعتبر. سرور به درستی پیکربندی نشده است."
+
+msgid "Server manager :adapter is not valid"
+msgstr "مدیریت کننده سرور :adapter معتبر نیست"
+
+msgid "Can not remove server which has active accounts"
+msgstr "نمی توان سروری که دارای مشتری فعال است حذف کرد"
+
+msgid "Domain registrar :adapter was not found"
+msgstr "ثبت کننده دامنه :adapter یافت نشد"
+
+msgid "Registrar :adapter was not found"
+msgstr "ثبت کننده :adapter یافت نشد"
+
+msgid "Registrar adapter :adapter should extend Registrar_AdapterAbstract"
+msgstr "آداپتور ثبت کننده دامنه :adapter می بایست دارای تابع Registrar_AdapterAbstract باشد"
+
+msgid "Can not remove registrar which has domains"
+msgstr "نمی توان ثبت کننده ای که دامنه دارد حذف کرد"
+
+msgid "Invalid identity"
+msgstr "هویت نامعتبر است"
+
+msgid ":module method toApiArray not found"
+msgstr "متد ApiArray ماژول :module یافت نشد"
+
+msgid "Client api can not be invoked from guest or admin role"
+msgstr "API مشتری نمی تواند همچون مدیر یا مهمان باشد"
+
+msgid "Invalid identity. Clear browser cookies"
+msgstr "هویت نامعتبر است. کوکی های مرورگر را پاک کنید"
+
+msgid "Method :method must contain underscore"
+msgstr "متد :method باید حاوی underscore باشد"
+
+msgid "BoxBilling module :mod is not installed/activated"
+msgstr "ماژول :mod باکس بیلینگ نصب/فعال نشده است"
+
+msgid "Module api file :file is not available"
+msgstr "پرونده API ماژول آماده نیست"
+
+msgid "Api class must be instance of Api_Abstract"
+msgstr "کلاس API می بایست نمونه ای از Api_Abstract باشد"
+
+msgid ":type API call :method does not exist in module :module"
+msgstr "درخواست :type API :method در ماژول :module فراهم نیست"
+
+msgid "second"
+msgstr "ثانیه"
+
+msgid "minute"
+msgstr "دقیقه"
+
+msgid "hour"
+msgstr "ساعت"
+
+msgid "day"
+msgstr "روز"
+
+msgid "week"
+msgstr "هفته"
+
+msgid "month"
+msgstr "ماه"
+
+msgid "year"
+msgstr "سال"
+
+msgid "decade"
+msgstr "دهه"
+
+msgid "Period Error. Unit :unit is not defined"
+msgstr "خطای دوره. واحد :unit تعیین نشده"
+
+msgid "Invalid period quantity :qty for unit :unit. Allowed range is from :from to :to"
+msgstr "تعداد نامعتبر دوره، :qty برای واحد :unit. محدوده مجاز از :from تا :to می باشد"
+
+msgid "Every week"
+msgstr "هر هفته"
+
+msgid "Every month"
+msgstr "هر ماه"
+
+msgid "Every 3 months"
+msgstr "هر سه ماه"
+
+msgid "Every 6 months"
+msgstr "هر شش ماه"
+
+msgid "Every year"
+msgstr "هر سال"
+
+msgid "Every 2 years"
+msgstr "هر دو سال"
+
+msgid "Every 3 years"
+msgstr "هر سه سال"
+
+msgid "Every :number day"
+msgstr "هر :number روز"
+
+msgid "Every :number week(s)"
+msgstr "هر :number هفته"
+
+msgid "Every :number months"
+msgstr "هر :number ماه"
+
+msgid "Every :number years"
+msgstr "هر :number سال"
+
+msgid "Unit not defined"
+msgstr "واحد تعیین نشده است"
+
+msgid "Can not determine months amount from unit"
+msgstr "نمی توان ماه های واحد را تعیین کرد"
+
+msgid "CURL extension is not enabled"
+msgstr "تابع CURL فعال نیست"
+
+msgid "Service class :class was not found in :path"
+msgstr "کلاس سرویس :class در :path یافت نشد"
+
+msgid "Client controller class :class was not found in :path"
+msgstr "کلاس کنترل کننده مشتری، :class در :path یافت نشد"
+
+msgid "Admin controller class :class was not found in :path"
+msgstr "کلاس کنترل کننده مدیر، :class در :path یافت نشد"
+
+msgid "Core module can not be updated"
+msgstr "ماژول هسته نمی تواند بروز شود"
+
+msgid "FTP extension is not enabled in PHP. You will not be able to use automatic updates and other automation."
+msgstr "تابع FTP در PHP فعال نیست. شما قادر نخواهید بود از بروزرسانی خودکار و یا دیگر سیستم ها استفاده کنید."
+
+msgid "The ftp PHP extension is not available"
+msgstr "تابع PHP ftp آماده نیست"
+
+msgid "FTP hostname is required"
+msgstr "عنوان میزبان FTP لازم است"
+
+msgid "FTP username is required"
+msgstr "نام کاربری FTP لازم است"
+
+msgid "FTP password is required"
+msgstr "گذرواژه FTP لازم است"
+
+msgid "Failed to connect to FTP Server :host : :port"
+msgstr "نمی توان به سرور FTP متصل شد :host :port"
+
+msgid "FTP Username/Password incorrect for :usernmae"
+msgstr "نام کاربری/گذرواژه FTP :username اشتباه است"
+
+msgid "Resource is not a stream"
+msgstr "منابع در جریان نیستند"
+
+msgid "Mode cannot be changed on existing streams"
+msgstr "مد نمی تواند در جریان های آماده تغییر کند"
+
+msgid ":stream cannot be opened with mode :mode"
+msgstr ":stream نمی تواند با روش :mode باز شود"
+
+msgid "Unable to write to stream"
+msgstr "نمی توان اطلاعات را نوشت"
+
+msgid ":module method getSearchQuery not found"
+msgstr "متد getSearchQuery در :module یافت نشد"
+
+msgid "Invalid :module method getSearchQuery return"
+msgstr "بازخورد متد getSearchQuery از :module معتبر نیست"
+
+msgid "Page :url not found"
+msgstr "صفحه :url یافت نشد"
+
+msgid "Page not found"
+msgstr "صفحه مورد نظر یافت نشد"
+
+msgid "File :file does not exist"
+msgstr "پرونده :file آماده نیست"
+
+msgid "Invalid zip file"
+msgstr "پرونده فشرده نامعتبر است"
+
+msgid "Zip extraction failed"
+msgstr "استخراج پرونده ناموفق بود"
+
+msgid "Unknown mail transport: :transport"
+msgstr "انتقال ناشناخته ایمیل: :transport"
+
+msgid "SMTP host not configured"
+msgstr "میزبان SMTP پیکربندی نشده"
+
+msgid "SMTP port not configured"
+msgstr "پورت SMTP پیکربندی نشده"
+
+msgid "SMTP hostname is not configured."
+msgstr "عنوان‌میزبان SMTP پیکربندی نشده است."
+
+msgid "Missing log message"
+msgstr "پیام وضعیت گم شده است"
+
+msgid "Bad log priority"
+msgstr "اولویت بد ورود"
+
+msgid "Email is not valid"
+msgstr "ایمیل معتبر نیست"
+
+msgid "Password too short!"
+msgstr "گذرواژه بسیار کوتاه است!"
+
+msgid "Password must include at least one number!"
+msgstr "گذرواژه شما باید حداقل دارای یک عدد باشد!"
+
+msgid "Password must include at least one letter!"
+msgstr "گذرواژه باید حداقل دارای یک حرف باشد!"
+
+msgid "Clients logins history"
+msgstr "تاریخچه ورود های مشتری"
+
+msgid "Client"
+msgstr "مشتری"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Number"
+msgstr "شماره"
+
+msgid "Created at"
+msgstr "ایجاد شده در"
+
+msgid "Due at"
+msgstr "سر رسید در"
+
+msgid "Reminded at"
+msgstr "یادآوری در"
+
+msgid "Approved"
+msgstr "تایید شده"
+
+msgid "Serie and number"
+msgstr "سری و تعداد"
+
+msgid "Tax"
+msgstr "مالیات"
+
+msgid "Text before invoice items table"
+msgstr "متن پیش از جدول آیتم های فاکتور"
+
+msgid "Text after invoice items table"
+msgstr "متن پس از جدول آیتم های فاکتور"
+
+msgid "Company VAT"
+msgstr "مالیات بر ارزش افزوده شرکت"
+
+msgid "Company Number"
+msgstr "تلفن شرکت"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "First name"
+msgstr "نام"
+
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+msgid "Invoice items"
+msgstr "آیتم های فاکتور"
+
+msgid "Droid Tweak settings"
+msgstr "تنظیمات Droid Tweak"
+
+msgid "Configuration updated"
+msgstr "پیکربندی به روز رسانی شد"
+
+msgid "Payment gateway"
+msgstr "درگاه پرداخت"
+
+msgid "Default Help desk"
+msgstr "مرکز پشتیبانی پیشفرض"
+
+msgid "Default Ticket subject"
+msgstr "موضوع پیشفرض تیکت"
+
+msgid "Default ticket subject"
+msgstr "موضوع پیشفرض تیکت"
+
+msgid "Ticket content"
+msgstr "محتویات تیکت"
+
+msgid "Filter transactions"
+msgstr "فیلتر معاملات"
+
+msgid "ID on payment gateway"
+msgstr "شماره در درگاه پرداخت"
+
+msgid "Invoice Id"
+msgstr "شماره فاکتور"
+
+msgid "Payment Gateway"
+msgstr "درگاه پرداخت"
+
+msgid "Received at"
+msgstr "دریافت شده در"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "Processed"
+msgstr "پردازش شده"
+
+msgid "System activity"
+msgstr "فعالیت سیستم"
+
+msgid "Ip"
+msgstr "IP"
+
+msgid "Birthday"
+msgstr "تولد"
+
+msgid "You are"
+msgstr "شما هستید"
+
+msgid "Partners list"
+msgstr "لیست همکاران"
+
+msgid "Configuration"
+msgstr "پیکربندی"
+
+msgid "Logo"
+msgstr "برند"
+
+msgid "Sales"
+msgstr "فروش"
+
+msgid "Signup Date"
+msgstr "تاریخ عضویت"
+
+msgid "Global partners limits and settings"
+msgstr "محدودیت های عمومی همکاران و تنظیمات"
+
+msgid "Default product which partners are reselling."
+msgstr "محصول پیشفرضی که همکاران می فروشند."
+
+msgid "Default order limit for partner per day. Used to prevent API abuse"
+msgstr "مدودیت سفارش روزانه ای برای همکاران تعیین کنید. از این گزینه برای تنظیم API استفاده می شود"
+
+msgid "Optional rules for becoming partner"
+msgstr "قوانین اختیاری برای همکارشدن"
+
+msgid "Product which must be ordered before becoming partner"
+msgstr "محصولاتی که باید پیش از همکار شدن سفارش داده شده باشند"
+
+msgid "Check partners balance before creating new order for available amount"
+msgstr "بررسی اعتبار همکاران پیش از ایجاد سفارش جدید"
+
+msgid "How much money must be on clients balance to become a partner"
+msgstr "چقدر اعتبار باید در اکانت مشتری برای همکار شدن وجود داشته باشد"
+
+msgid "License settings"
+msgstr "تنظیمات لایسنس"
+
+msgid "Prefix"
+msgstr "پیشوند"
+
+msgid "Length"
+msgstr "طول"
+
+msgid "Plugin"
+msgstr "افزونه"
+
+msgid "Validate IP"
+msgstr "اعتبار سنجی IP"
+
+msgid "Validate Hostname"
+msgstr "اعتبار سنجی عنوان‌میزبان "
+
+msgid "Validate Version"
+msgstr "اعتبار سنجی نسخه"
+
+msgid "Validate Path"
+msgstr "اعتبار سنجی آدرس"
+
+msgid "License plugins"
+msgstr "افزونه های لایسنس"
+
+msgid "BoxBilling gives you ability to provide your own license generation script. Follow instructions bellow to install new license plugin"
+msgstr "باکس بیلینگ به شما اجازه می دهد اسکریپت لایسنس خود را ایجاد کنید. مراحل زیر را برای نصب افزونه لایسنس دنبال کنید"
+
+msgid "License plugin is PHP class \"License_PluginName\" with one method"
+msgstr "افزونه لایسنس کلاس PHP \"License_PluginName\" با یک متد است"
+
+msgid "Take a look at default plugin at"
+msgstr "نگاهی بیندازید به افزونه پیشفرض در"
+
+msgid "Create your plugin and place it to"
+msgstr "افزونه خود را ایجاد کنید و قرار دهید در"
+
+msgid "BoxBilling will automatically detect new plugin"
+msgstr "باکس بیلینگ به طور خودکار افزونه جدید را شناسایی خواهد کرد"
+
+msgid "Read"
+msgstr "مطالعه کنید"
+
+msgid "BoxBilling documentation"
+msgstr "مقالات باکس بیلینگ"
+
+msgid "for more information."
+msgstr "برای کسب اطلاعات بیشتر."
+
+msgid "Import existing"
+msgstr "وارد کردن موجودی"
+
+msgid "Domain name"
+msgstr "نام دامنه"
+
+msgid "Domain TLD"
+msgstr "TLD دامنه"
+
+msgid "News and announcements"
+msgstr "اخبار و اطلاعیه ها"
+
+msgid "New announcement"
+msgstr "اطلاعیه جدید"
+
+msgid "Draft"
+msgstr "چرکنویس"
+
+msgid "Content"
+msgstr "محتویات"
+
+msgid "Create"
+msgstr "ایجاد"
+
+msgid "Email templates"
+msgstr "قالب های ایمیل"
+
+msgid "New template"
+msgstr "قالب جدید"
+
+msgid "Email settings"
+msgstr "تنظیمات ایمیل"
+
+msgid "Code"
+msgstr "کد"
+
+msgid "Enabled"
+msgstr "فعال شده"
+
+msgid "The list is empty. Depending on modules enabled email templates will be inserted after first event occurrence."
+msgstr "لیست خالیست. بسته به ماژول های نصبی شما قالب های ایمیل پس از اولین رخداد نمایان خواهند شد."
+
+msgid "Configure email options"
+msgstr "پیکربندی گزینه های ایمیل"
+
+msgid "BoxBilling sends emails using <em>sendmail</em> by default or you can configure your own SMTP server"
+msgstr "باکس بیلینگ برای ارسال ایمیل از تابع <em>sendmail</em> استفاده می کند که در SMTP سرور شما پیکربندی می شود"
+
+msgid "Email transport"
+msgstr "انتقال ایمیل"
+
+msgid "SendMail"
+msgstr "SendMail"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "SMTP Hostname"
+msgstr "عنوان میزبان SMTP"
+
+msgid "SMTP Port"
+msgstr "پورت SMTP"
+
+msgid "SMTP Username"
+msgstr "نام کاربری SMTP"
+
+msgid "SMTP Password"
+msgstr "گذرواژه SMTP"
+
+msgid "SMTP Security"
+msgstr "امنیت SMTP"
+
+msgid "Update email settings"
+msgstr "بروز رسانی تنظیمات ایمیل"
+
+msgid "Send test email to staff members"
+msgstr "ارسال ایمیل آزمایشی به کارکنان"
+
+msgid "Where I can use new email template?"
+msgstr "کجا می توانم قالب جدید ایمیلم را استفاده کنم؟"
+
+msgid "Newly created email templates can be used in custom event hooks."
+msgstr "قالب های جدید ایمیل می توانند در رخداد های دلخواه استفاده شوند."
+
+msgid "Category"
+msgstr "دسته بندی"
+
+msgid "Action code"
+msgstr "کد عملیات"
+
+msgid "Filter support tickets"
+msgstr "فیلتر تیکت های پشتیبانی"
+
+msgid "Client ID"
+msgstr "شماره مشتری"
+
+msgid "Order ID"
+msgstr "شماره سفارش"
+
+msgid "Ticket subject"
+msgstr "موضوع تیکت"
+
+msgid "Ticket messages"
+msgstr "پیام تیکت"
+
+msgid "Priority"
+msgstr "اهمیت"
+
+msgid "Tickets waiting for staff reply"
+msgstr "تیکت هایی که در انتظار پاسخ کارمندان هستند"
+
+msgid "Tickets waiting for client reply"
+msgstr "تیکت هایی که در انتظار پاسخ مشتریان هستند"
+
+msgid "Solved tickets"
+msgstr "تیکت های حل شده"
+
+msgid "New email"
+msgstr "ایمیل جدید"
+
+msgid "Last message"
+msgstr "آخرین پیام"
+
+msgid "Open ticket for existing client"
+msgstr "بازکردن تیکت جدید برای مشتری"
+
+msgid "Start typing clients name, email or ID"
+msgstr "نام مشتری، ایمیل و یا شماره آن را وارد کنید"
+
+msgid "Open public ticket for non client"
+msgstr "بازکردن تیکت عمومی جدید برای مشتریان"
+
+msgid "Receivers name"
+msgstr "نام دریافت کنندگان"
+
+msgid "John Smith"
+msgstr "جان اسمیت"
+
+msgid "to@gmail.com"
+msgstr "to@gmail.com"
+
+msgid "Features"
+msgstr "امکانات"
+
+msgid "Demo"
+msgstr "نمونه"
+
+msgid "Documentation"
+msgstr "مقالات"
+
+msgid "Forums"
+msgstr "انجمن ها"
+
+msgid "Earn money"
+msgstr "درآمد کسب کنید"
+
+msgid "Partners"
+msgstr "همکاران"
+
+msgid "My Account"
+msgstr "اکانت من"
+
+msgid "Support Tickets"
+msgstr "تیکت های پشتیبانی"
+
+msgid "Logout"
+msgstr "خروج"
+
+msgid "INFORMATION"
+msgstr "اطلاعات"
+
+msgid "Website statistic"
+msgstr "آمار و ارقام سایت"
+
+msgid "Metric"
+msgstr "بر حسب SI"
+
+msgid "Today"
+msgstr "امروز"
+
+msgid "Yesterday"
+msgstr "دیروز"
+
+msgid "This month so far"
+msgstr "این ماه تاکنون"
+
+msgid "Income"
+msgstr "درآمد"
+
+msgid "Clients"
+msgstr "مشتریان"
+
+msgid "Orders"
+msgstr "سفارشات"
+
+msgid "Latest orders"
+msgstr "آخرین سفارشات"
+
+msgid "Product sales"
+msgstr "فروش محصول"
+
+msgid "No active orders available"
+msgstr "هیچ سفارش فعالی در دسترس نیست"
+
+msgid "Define date interval for graphs"
+msgstr "فواصل زمانی نمودار ها را تعیین کنید"
+
+msgid "Update graphs"
+msgstr "بروزرسانی نمودار ها"
+
+msgid "Recent clients activity"
+msgstr "فعالیت های اخیر مشتری"
+
+msgid "Recent staff activity"
+msgstr "فعالیت های اخیر کارمند"
+
+msgid "Public tickets"
+msgstr "تیکت های عمومی"
+
+msgid "Centova Cast"
+msgstr "Centova Cast"
+
+msgid "Centova Cast settings"
+msgstr "تنظیمات Centova Cast"
+
+msgid "Server URL"
+msgstr "آدرس سرور"
+
+msgid "Register new server"
+msgstr "ثبت سرور جدید"
+
+msgid "Edit server"
+msgstr "ویرایش سرور"
+
+msgid "CentovaCast URL"
+msgstr "آدرس Centova Cast"
+
+msgid "IP Address"
+msgstr "آدرس IP"
+
+msgid "Administrator password"
+msgstr "گذرواژه مدیریت"
+
+msgid "Register Centova Cast server"
+msgstr "ثبت سرور Centova Cast"
+
+msgid "Server added"
+msgstr "سرور افزوده شد"
+
+msgid "Add"
+msgstr "افزودن"
+
+msgid "Back to extensions"
+msgstr "بازگشت به افزودنی ها"
+
+msgid "Create CentovaCast product"
+msgstr "ایجاد محصول Centova Cast"
+
+msgid "File information"
+msgstr "اطلاعات پرونده"
+
+msgid "Filename"
+msgstr "عنوان پرونده"
+
+msgid "Location"
+msgstr "محل"
+
+msgid "Downloads"
+msgstr "دانلود ها"
+
+msgid "Upload new file for this order"
+msgstr "پرونده جدیدی برای این سفارش آپلود کنید"
+
+msgid "Use this function to update existing order file. Client will be able to download new file from client area"
+msgstr "از این تابع برای بروزرسانی فایل سفارش استفاده کنید. مشتری قادر به دانلود آن از محیط کاربری خواهد بود"
+
+msgid "Upload new file"
+msgstr "آپلود فایل جدید"
+
+msgid "Upload"
+msgstr "آپلود"
+
+msgid "Top level domains"
+msgstr "دامنه های بلند مرتبه"
+
+msgid "New top level domain"
+msgstr "دامنه بلند مرتبه جدید"
+
+msgid "Registrars"
+msgstr "ثبت کنندگان"
+
+msgid "New domain registrar"
+msgstr "ثبت کننده جدید دامنه"
+
+msgid "Manage TLDs"
+msgstr "مدیریت TLD ها"
+
+msgid "Setup domain pricing and allowed operations. Assign specific domain registrars for each Top Level Domain (TLD)"
+msgstr "هزینه دامنه ها و ثبت کنندگان آن ها را تعیین کنید. برای هر پسوند دامنه ثبت کننده مربوط را برگزینید"
+
+msgid "TLD"
+msgstr "TLD"
+
+msgid "Registration"
+msgstr "ثبت"
+
+msgid "Renew"
+msgstr "تمدید"
+
+msgid "Operations"
+msgstr "عملیات"
+
+msgid "Registrar"
+msgstr "ثبت کننده"
+
+msgid "Allow register:"
+msgstr "اجازه ثبت:"
+
+msgid "Allow transfer:"
+msgstr "اجازه انتقال:"
+
+msgid "Active:"
+msgstr "فعال:"
+
+msgid "Add new top level domain"
+msgstr "افزودن دامنه بلند مرتبه جدید"
+
+msgid "Setup new TLD prices and properties"
+msgstr "افزودن TLD جدید به همراه قیمت و مشخصات"
+
+msgid "Tld"
+msgstr "TLD"
+
+msgid "Registration price"
+msgstr "هزینه ثبت"
+
+msgid "Renewal price"
+msgstr "هزینه تمدید"
+
+msgid "Minimum years of registration"
+msgstr "حداقل سال ثبت"
+
+msgid "Allow registration"
+msgstr "اجازه ثبت"
+
+msgid "Allow transfer"
+msgstr "اجازه انتقال"
+
+msgid "Domain registrars"
+msgstr "ثبت کنندگان دامنه"
+
+msgid "Manage domain registrars"
+msgstr "مدیریت ثبت کنندگان دامنه"
+
+msgid "Setup default nameservers that will be used for new domain registrations if client have not provided his own nameservers in order form"
+msgstr "کارگزار های پیشفرضی که برای دامنه هایی که تازه ثبت می شوند و مشتری کارگزار های آن را تعیین نمی کند، وارد کنید."
+
+msgid "Adding new domain registrar"
+msgstr "افزودن ثبت کننده جدید دامنه"
+
+msgid "Follow instrunctions bellow to install new domain registrar."
+msgstr "مراحل زیر را برای نصب کردن ثبت کننده دامنه جدید دنبال کنید."
+
+msgid "Check domain registrar you are looking for is available at"
+msgstr "بررسی کنید که آیا ثبت کننده دامنه شما موجود است در"
+
+msgid "Download domain registrar file and place to"
+msgstr "پرونده ثبت کننده دامنه را دانلود کنید و قرار دهید در"
+
+msgid "Reload this page to see newly detected domain registrar"
+msgstr "این صفحه را جهت شناسایی ثبت کننده جدید دامنه بروزآوری کنید"
+
+msgid "Click on install button. Now you will be able to create top level domains with new domain registrar"
+msgstr "به روی کلیک نصب کلیک کنید. از این پس شما می توانید دامنه های بلند مرتبه جدید با این ثبت کننده ایجاد کنید."
+
+msgid "For developers. Read"
+msgstr "توسعه دهندگان بخوانند"
+
+msgid "to learn how to create your own domain registrar."
+msgstr "که چگونه می توان ثبت کننده دامنه خودتان را ایجاد کنید."
+
+msgid "Install"
+msgstr "نصب"
+
+msgid "All payment gateways installed"
+msgstr "تمامی درگاه های پرداخت نصب شدند"
+
+msgid "Subscription"
+msgstr "اشتراک"
+
+msgid "Subscription details"
+msgstr "مشخصات اشتراک"
+
+msgid "Subscription ID on payment gateway"
+msgstr "شماره اشتراک در درگاه پرداخت"
+
+msgid "Updated at"
+msgstr "بروز شده در"
+
+msgid "Filter orders"
+msgstr "فیلتر سفارشات"
+
+msgid "Invoice option"
+msgstr "تنظیمات فاکتور"
+
+msgid "Creation date"
+msgstr "تاریخ ایجاد"
+
+msgid "Pending setup"
+msgstr "در انتظار راه اندازی"
+
+msgid "Supended"
+msgstr "مسدود"
+
+msgid "Max Addon domains"
+msgstr "حداکثر Addon دامنه"
+
+msgid "Max FTP accounts"
+msgstr "حداکثر اکانت FTP"
+
+msgid "Max SQL Databases"
+msgstr "حداکثر پایگاه داده MySQL"
+
+msgid "Max Email Accounts"
+msgstr "حداکثر اکانت ایمیل"
+
+msgid "Max Subdomains"
+msgstr "حداکثر Subdomain"
+
+msgid "Max Parked Domains"
+msgstr "حداکثر Parked دامنه"
+
+msgid "Server manager specific parameters"
+msgstr "پارامتر های خاص کنترل پنل سرور"
+
+msgid "Update hosting plan"
+msgstr "بروز رسانی بسته میزبانی"
+
+msgid "Hosting plan additional parameters"
+msgstr "پارامتر های اضافی بسته میزبانی"
+
+msgid "Depending on server manager used to setup hosting account you may require provide additional parameters. List of parameters server managers requires you can find on extensions page."
+msgstr "بسته به کنترل پنل سرور شما، شما می بایست پارامتر های دیگری را نیز تنظیم کنید. لیست پارامتر ها را در صفحه افزودنی ببینید."
+
+msgid "Add new configuration field"
+msgstr "افزودن فیلد پیکربندی جدید"
+
+msgid "Something went wrong here"
+msgstr "یک چیزی اشتباه شده"
+
+msgid "Back to Dashboard"
+msgstr "بازگشت به داشبورد"
+
+msgid "Get BoxBilling license"
+msgstr "تهیه لایسنس باکس بیلینگ"
+
+msgid "Newsletters"
+msgstr "خبرنامه ها"
+
+msgid "Create New"
+msgstr "ایجاد جدید"
+
+msgid "Articles"
+msgstr "مقالات"
+
+msgid "New article"
+msgstr "مقاله جدید"
+
+msgid "New category"
+msgstr "دسته بندی جدید"
+
+msgid "Manage categories"
+msgstr "مدیریت دسته بندی ها"
+
+msgid "Category created"
+msgstr "دسته بندی ایجاد شد"
+
+msgid "File manager"
+msgstr "مدیریت پرونده ها"
+
+msgid "Full screen"
+msgstr "تمام صفحه"
+
+msgid "Extensions"
+msgstr "افزودنی ها"
+
+msgid "Update BoxBilling"
+msgstr "بروز رسانی باکس بیلینگ"
+
+msgid "Learn more about extensions"
+msgstr "در مورد افزودنی ها بیشتر بدانید"
+
+msgid "Hooks"
+msgstr "رخداد ها"
+
+msgid "Activate or deactivate extensions"
+msgstr "فعال سازی یا غیرفعال سازی افزودنی‌ها"
+
+msgid "Extension"
+msgstr "افزودنی"
+
+msgid "Deactivate"
+msgstr "غیرفعال سازی"
+
+msgid "Module settings"
+msgstr "تنظیمات ماژول"
+
+msgid "Hook"
+msgstr "رخداد"
+
+msgid "Automatic update"
+msgstr "بروز رسانی خودکار"
+
+msgid "Automatic updater is a tool to update BoxBilling to latest version in one click. Works on these hosting environments where PHP has permissions to overwrite files uploaded via FTP."
+msgstr "بروزرسان خودکار یک ابزار است که به شما امکان ارتقا باکس بیلینگ به آخرین نسخه را با یک کلیک می دهد. کارکرد صحیح این ابزار بستگی به فعال بودن توابع PHP و سطح دسترسی صحیح فایل ها بستگی دارد."
+
+msgid "Manual update"
+msgstr "بروز رسانی دستی"
+
+msgid "Manual update is a solution when auto updater can not work on current installation environment"
+msgstr "بروزرسانی دستی یک راهکار برای مواقعی است که بروزرسان خودکار کار نمی کند."
+
+msgid "Extending BoxBilling"
+msgstr "توسعه باکس‌بیلینگ"
+
+msgid "BoxBilling gives developers all the capabilities to customize, integrate & extend the core system into your own website & applications."
+msgstr "باکس بیلینگ به توسعه دهندگان امکان استفاده از تمامی ظرفیت ها برای سفارشی کردن، یکپارچه سازی و گسترش سیستم و اتصال آن به دیگر نرم افزار ها را میدهد."
+
+msgid "Submited"
+msgstr "تایید شده"
+
+msgid "Manage services"
+msgstr "مدیریت سرویس ها"
+
+msgid "Search:"
+msgstr "جستجو:"
+
+msgid "Enter search text.."
+msgstr "به دنبال چه می گردید.."
+
+msgid "Centova Cast product settings"
+msgstr "تنظیمات محصول Centova Cast"
+
+msgid "Server"
+msgstr "سرور"
+
+msgid "Template"
+msgstr "قالب"
+
+msgid "Max clients"
+msgstr "حداکثر مشتری"
+
+msgid "Max bitrate"
+msgstr "حداکثر میزان ارسال بیت"
+
+msgid "Transfer limit"
+msgstr "محدودیت انتقال"
+
+msgid "Autostart"
+msgstr "شروع خودکار"
+
+msgid "Products"
+msgstr "محصولات"
+
+msgid "New product"
+msgstr "محصول جدید"
+
+msgid "Update priority"
+msgstr "بروز رسانی اهمیت"
+
+msgid "Icon URL"
+msgstr "آدرس آیکون"
+
+msgid "Queues"
+msgstr "صفوف"
+
+msgid "Created"
+msgstr "ایجاد شده"
+
+msgid "The list is empty."
+msgstr "لیست خالی می باشد."
+
+msgid "Order management"
+msgstr "مدیریت سفارش"
+
+msgid "Edit order"
+msgstr "ویرایش سفارش"
+
+msgid "Service management"
+msgstr "مدیریت سرویس"
+
+msgid "Addons"
+msgstr "افزونه ها"
+
+msgid "History"
+msgstr "تاریخچه"
+
+msgid "Order group ID"
+msgstr "شماره گروه سفارش"
+
+msgid "Order promo code"
+msgstr "کوپن تخفیف سفارش"
+
+msgid "Reason of suspendation"
+msgstr "دلیل مسدود سازی"
+
+msgid "Suspendation reason"
+msgstr "دلیل مسدودیت"
+
+msgid "Reason of cancelation"
+msgstr "دلیل لغو"
+
+msgid "Cancelation reason"
+msgstr "دلیل لغو"
+
+msgid "Changes status without performing action"
+msgstr "تغییر وضعیت بدون هیچ عملیاتی"
+
+msgid "Order invoices"
+msgstr "فاکتورهای سفارش"
+
+msgid "Issued at"
+msgstr "صادر شده در"
+
+msgid "Order status change history"
+msgstr "تغییر تاریخچه وضعیت سفارش"
+
+msgid "Note"
+msgstr "یادداشت"
+
+msgid "Support tickets regarding this order"
+msgstr "تیکت های مرتبط با این سفارش"
+
+msgid "Server Name"
+msgstr "نام سرور"
+
+msgid "Account IP"
+msgstr "IP اکانت"
+
+msgid "Change hosting plan"
+msgstr "تغییر بسته میزبانی"
+
+msgid "Hosting plan changed"
+msgstr "بسته میزبانی تغییر یافت"
+
+msgid "New hosting plan"
+msgstr "بسته میزبانی جدید"
+
+msgid "Account password changed"
+msgstr "گذرواژه اکانت تغییر یافت"
+
+msgid "Change IP"
+msgstr "تغییر IP"
+
+msgid "Account IP changed"
+msgstr "IP اکانت تغییر یافت"
+
+msgid "Account username changed"
+msgstr "نام کاربری اکانت تغییر یافت"
+
+msgid "Account domain changed"
+msgstr "دامنه اکانت تغییر یافت"
+
+msgid "Client area languages"
+msgstr "زبان های محیط کاربری"
+
+msgid "New language"
+msgstr "زبان جدید"
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "BoxBilling in your language"
+msgstr "باکس بیلینگ به زبان شما"
+
+msgid "Although BoxBilling displays in U.S. English by default, the software has the built-in capability to be used in any language. Follow instructions bellow to install new language."
+msgstr "با وجود اینکه باکس بیلینگ به صورت پیشفرض انگلیسی می باشد اما شما می توانید آن را به هر زبانی ترجمه کنید. مراحل زیر را دنبال کنید."
+
+msgid "Check if your language translation file is available at"
+msgstr "بررسی کنید آیا ترجمه زبان شما موجود است در"
+
+msgid "BoxBilling extensions site"
+msgstr "مخزن افزودنی های باکس بیلینگ"
+
+msgid "Download language files and place them to"
+msgstr "پرونده زبان را دانلود کرده و قرار دهید در"
+
+msgid "Language will be automatically available and can be changed in client area"
+msgstr "زبان به صورت خودکار شناسایی و در محیط کاربری افزوده خواهد شد"
+
+msgid "Installing BoxBilling in Your Language"
+msgstr "نصب باکس بیلینگ به زبان شما"
+
+msgid "to learn how to install files that will transform BoxBilling so it displays in your language."
+msgstr "چگونه باکس بیلینگ را با زبان خود نصب کنید"
+
+msgid "Translations can be made with"
+msgstr "ترجمه ها می توانند با نرم افزار"
+
+msgid "software"
+msgstr "ایجاد شوند"
+
+msgid "Changing default language"
+msgstr "تغییر زبان پیشفرض"
+
+msgid "Default language can be set in"
+msgstr "زبان پیشفرض می تواند تعیین شود در"
+
+msgid "Removing language"
+msgstr "حذف زبان"
+
+msgid "Removing languages from BoxBilling is really simple. Just delete language folder you wish from"
+msgstr "برای حذف زبان کافیست پوشه آن را حذف کنید."
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Info"
+msgstr "توضیحات"
+
+msgid "BoxBilling version settings"
+msgstr "تنظیمات نسخه باکس بیلینگ"
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Size"
+msgstr "حجم"
+
+msgid "Release date"
+msgstr "تاریخ انتشار"
+
+msgid "Download latest"
+msgstr "دانلود آخرین"
+
+msgid "Download latest update"
+msgstr "دانلود آخرین بروز رسانی"
+
+msgid "Staff members logins history"
+msgstr "تاریخچه ورود های کارمندان"
+
+msgid "Admin"
+msgstr "مدیر"
+
+msgid "Filter clients"
+msgstr "فیلتر مشتریان"
+
+msgid "Group"
+msgstr "گروه"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Suspended"
+msgstr "مسدود شده"
+
+msgid "Canceled"
+msgstr "لغو شده"
+
+msgid "New client"
+msgstr "مشتری جدید"
+
+msgid "Groups"
+msgstr "گروه ها"
+
+msgid "New group"
+msgstr "گروه جدید"
+
+msgid "Postcode"
+msgstr "کد پستی"
+
+msgid "Your Balance"
+msgstr "اعتبار شما"
+
+msgid "Ticket"
+msgstr "تیکت"
+
+msgid "Task"
+msgstr "وظیفه"
+
+msgid "Client tickets"
+msgstr "تیکت های مشتیر"
+
+msgid "Total responses"
+msgstr "تمامی پاسخ ها"
+
+msgid "Add note"
+msgstr "افزودن یادداشت"
+
+msgid "Task status"
+msgstr "وضعیت وظیفه"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "management"
+msgstr "مدیریت"
+
+msgid "Variables"
+msgstr "متغیرها"
+
+msgid "Template Settings"
+msgstr "تنظیمات قالب"
+
+msgid "Reset template"
+msgstr "بازنشانی قالب"
+
+msgid "Examples"
+msgstr "نمونه ها"
+
+msgid "Manage email template"
+msgstr "مدیریت قالب ایمیل"
+
+msgid "Most email templates receives parameters from BoxBilling. You can browse them on \"Variables\" tab. Copy variable name to email template and hit preview to see parsed content. Please note that values will be different when actual email is sent."
+msgstr "بیشتر ایمیل ها دارای پارامتر های باکس بیلینگ هستند. شما می توانید این متغیر ها را در سربرگ \"متغیرها\" بیابید. بخاطر داشته باشید متغیر ها پس از ارسال ایمیل تغییر خواهند کرد."
+
+msgid "Template updated"
+msgstr "قالب به روز شد"
+
+msgid "Preview"
+msgstr "پیش نمایش"
+
+msgid "Template settings"
+msgstr "تنظیمات قالب"
+
+msgid "Enable or disable this email template."
+msgstr "این قالب ایمیل را فعال یا غیرفعال کنید."
+
+msgid "List of variables used in this email"
+msgstr "لیست متغیر های استفاده شده در این ایمیل"
+
+msgid "These values will change when real email is sent. You can pass these variables to admin or guest API to get additional information from database."
+msgstr "این متغیر ها زمانی تغییر خواهند کرد که ایمیل واقعی ارسال شود. این اطلاعات از پایگاه داده گرفته خواهند شد."
+
+msgid "Variable"
+msgstr "متغیر"
+
+msgid "Example value"
+msgstr "مقدار نمونه"
+
+msgid "This template does not receive any parameters"
+msgstr "این قالب هیچ پارامتری ندارد"
+
+msgid "Reset email template to default"
+msgstr "بازنشانی قالب ایمیل به پیشفرض"
+
+msgid "Reset to default"
+msgstr "بازنشانی به پیشفرض"
+
+msgid "Email templates examples"
+msgstr "نمونه قالب های ایمیل"
+
+msgid "Email template playground. Use this tool to try rendering email templates."
+msgstr "محل بازی قالب ایمیل. از این ابزار برای رندر کردن قالب های ایمیل استفاده کنید."
+
+msgid "Affiliate settings"
+msgstr "تنظیمات بازاریابی"
+
+msgid "Affiliate module settings"
+msgstr "تنظیمات ماژول بازاریابی"
+
+msgid "Offer your clients become affiliates of your services."
+msgstr "به مشتریان خود پیشنهاد دهید که بازاریاب سرویس های شما باشند."
+
+msgid "Commission from order"
+msgstr "کومیسیون های سفارش"
+
+msgid "Days from order activation to admit commission"
+msgstr "روز از فعال سازی سفارش برای پذیرفتن کمیسیون"
+
+msgid "Bonus amount for becoming affiliate in"
+msgstr "جایزه بازاریاب شدن"
+
+msgid "Minimum withdraw amount."
+msgstr "حداقل مقدار برداشت"
+
+msgid "Redirect Url. Where is your client redirected after visiting refferal link"
+msgstr "آدرس انتقال. مشتری شما پس از مشاهده لینک بازاریابی به کجا منتقل شود"
+
+msgid "Email content"
+msgstr "محتویات ایمیل"
+
+msgid "Email details"
+msgstr "جزئیات ایمیل"
+
+msgid "Sent emails"
+msgstr "ایمیل های ارسال‌شده"
+
+msgid "Subscriptions"
+msgstr "اشتراک ها"
+
+msgid "New subscription"
+msgstr "اشتراک جدید"
+
+msgid "Create main administrator account"
+msgstr "ایجاد اکانت مدیریت اصلی"
+
+msgid "Enter your email address"
+msgstr "آدرس ایمیل خود را وارد کنید"
+
+msgid "Enter your password"
+msgstr "گذرواژه خود را وارد کنید"
+
+msgid "Create administrator account"
+msgstr "ایجاد اکانت مدیریت"
+
+msgid "Remember me"
+msgstr "مرا بخاطر داشته باش"
+
+msgid "Log me in"
+msgstr "ورود"
+
+msgid "Create new order"
+msgstr "ایجاد سفارش جدید"
+
+msgid "for"
+msgstr "برای"
+
+msgid "Activate order"
+msgstr "فعال سازی سفارش"
+
+msgid "Place new order"
+msgstr "ثبت سفارش جدید"
+
+msgid "BoxBilling members area"
+msgstr "محیط اعضای باکس بیلینگ"
+
+msgid "Registering as"
+msgstr "ثبت نام در"
+
+msgid "Individual"
+msgstr "فردی"
+
+msgid "Company registration number"
+msgstr "شماره ثبت شرکت"
+
+msgid "Company VAT number"
+msgstr "مالیات بر ارزش افزوده شرکت"
+
+msgid "Tax rules"
+msgstr "قوانین مالیاتی"
+
+msgid "New tax rule"
+msgstr "قانون مالیات جدید"
+
+msgid "Tax settings"
+msgstr "تنظیمات مالیات"
+
+msgid "EU VAT"
+msgstr "مالیات بر ارزش افزوده اتحادیه اروپا"
+
+msgid "State/Region"
+msgstr "استان"
+
+msgid "Tax rate"
+msgstr "نرخ مالیات"
+
+msgid "Applies to any country"
+msgstr "اعمال به تمامی کشورها"
+
+msgid "Applies to any state"
+msgstr "اعمال به تمامی استان ها"
+
+msgid "Enable tax support"
+msgstr "فعال سازی پشتیبانی مالیات"
+
+msgid "Automatic VAT Tax Rules Setup"
+msgstr "راه اندازی خودکار مالیات بر ارزش افزوده "
+
+msgid "If you would like BoxBilling to automatically setup the EU VAT tax rules for you for all EU Member States then simply enter your VAT Label & local VAT rate below and click the submit button. This action will delete any existing tax rules and configure the VAT rates for all EU countries."
+msgstr "اگر می خواهید که باکس بیلینگ به طور خودکار قوانین مالیاتی اتحادیه اروپا را اعمال کند موارد زیر را تکمیل و ارسال کنید."
+
+msgid "VAT Label"
+msgstr "برچسب مالیات بر ارزش افزوده"
+
+msgid "VAT rate"
+msgstr "نرخ مالیات"
+
+msgid "21"
+msgstr "21"
+
+msgid "Create EU VAT Rules"
+msgstr "ایجاد قوانین مالیاتی"
+
+msgid "Tax title"
+msgstr "عنوان مالیات"
+
+msgid "sales Tax"
+msgstr "مالیات فروش"
+
+msgid "18"
+msgstr "18"
+
+msgid "Leave empty to apply to all states"
+msgstr "برای اعلام بر همگی خالی رها کنید"
+
+msgid "Profile updated"
+msgstr "پروفایل بروز گردید"
+
+msgid "Listed in public"
+msgstr "لیست کردن عمومی"
+
+msgid "Partner status"
+msgstr "وضعیت همکار"
+
+msgid "Partner product"
+msgstr "محصول همکار"
+
+msgid "Override price"
+msgstr "نادیده گرفتن قیمت"
+
+msgid "Logo URL"
+msgstr "آدرس برند"
+
+msgid "Website URL"
+msgstr "آدرس وبسایت"
+
+msgid "Payment gateway configuration"
+msgstr "پیکربندی درگاه پرداخت"
+
+msgid "Payment gateway title"
+msgstr "عنوان درگاه پرداخت"
+
+msgid "Select which currencies can accept this payment gateway (Select none to allow all currencies)"
+msgstr "ارز های مورد پذیرش درگاه پرداخت را مشخص کنید"
+
+msgid "Allow one time payments"
+msgstr "اجازه به پرداخت های یکباره"
+
+msgid "Allow subscription payments"
+msgstr "اجازه اشتراک پرداخت ها"
+
+msgid "Enable test mode"
+msgstr "فعال سازی حالت آزمایشی"
+
+msgid "IPN Callback URL"
+msgstr "آدرس بازگشت IPN"
+
+msgid "Go back"
+msgstr "برگرد"
+
+msgid "Send Email Message"
+msgstr "ارسال ایمیل"
+
+msgid "Newsletter updated"
+msgstr "خبرنامه بروزشد"
+
+msgid "From name"
+msgstr "نام فرستنده"
+
+msgid "From email"
+msgstr "ایمیل فرستنده"
+
+msgid "Send message"
+msgstr "ارسال پیام"
+
+msgid "Back to newsletters"
+msgstr "بازگشت به خبرنامه ها"
+
+msgid "Recipients filter. Select none to send message to all clients"
+msgstr "دریافت کنندگان را فیلتر کنید. برای ارسال به همه هیچ یک را انتخاب نکنید"
+
+msgid "Client status and group"
+msgstr "وضعیت و گروه مشتری"
+
+msgid "Has order"
+msgstr "با نظم"
+
+msgid "Message content"
+msgstr "محتویات پیام"
+
+msgid "Update and preview"
+msgstr "بروزرسانی و پیشنمایش"
+
+msgid "Send test message"
+msgstr "ارسال پیام آزمایشی"
+
+msgid "Send message to clients"
+msgstr "ارسال پیام به مشتریان"
+
+msgid "Topics"
+msgstr "تایپک ها"
+
+msgid "New forum"
+msgstr "انجمن جدید"
+
+msgid "Sticky"
+msgstr "چسبانک"
+
+msgid "Locked"
+msgstr "قفل شده"
+
+msgid "Sorting"
+msgstr "مرتب سازی"
+
+msgid "Last ping"
+msgstr "آخرین پینگ"
+
+msgid "Valid IPs (one per line)"
+msgstr "اعتبارسنجی IP ها (هر خط یکی)"
+
+msgid "Validate host"
+msgstr "اعتبار سنجی میزبان"
+
+msgid "Valid hosts (one per line)"
+msgstr "اعتبار سنجی میزبان ها (هر خط یکی)"
+
+msgid "Validate path"
+msgstr "اعتبار سنجی محل"
+
+msgid "Valid paths (one per line)"
+msgstr "اعتبار سنجی محل ها (هر خط یکی)"
+
+msgid "Validate version"
+msgstr "اعتبارسنجی نسخه"
+
+msgid "Valid versions (one per line)"
+msgstr "اعتبارسنجی نسخه ها (هر خط یکی)"
+
+msgid "Existing member"
+msgstr "عضو موجود"
+
+msgid "Payment gateways"
+msgstr "درگاه های پرداخت"
+
+msgid "New payment gateway"
+msgstr "درگاه پرداخت جدید"
+
+msgid "Allow subscriptions"
+msgstr "اجازه مشترک شدن"
+
+msgid "Adding new payment gateway"
+msgstr "افزودن درگاه پرداخت جدید"
+
+msgid "Although BoxBilling ships with most popular payment gateways, you can install other gateways."
+msgstr "با وجود اینکه باکس بیلینگ درگاه های پرداخت محبوب جهان را به طور پیشفرض دارد شما می توانید درگاه های پرداخت دیگری نیز نصب کنید. "
+
+msgid "Follow these instructions to install new payment gateway."
+msgstr "این مراحل را برای نصب درگاه پرداخت دنبال کنید."
+
+msgid "Check for payment gateway at"
+msgstr "بررسی کنید که آیا درگاه پرداخت موجود است در"
+
+msgid "for more payment gateways"
+msgstr "برای مشاهده درگاه های پرداخت بیشتر"
+
+msgid "Download payment gateway extension file and place it to"
+msgstr "پرونده درگاه پرداخت را دانلود کنید و قرار دهید در"
+
+msgid "After file is uploaded in place, reload this page."
+msgstr "پس از اینکه فایل در محل قرار گرفت این صفحه را بروز آوری کنید."
+
+msgid "Select uploaded file name and click on install."
+msgstr "نام فایل آپلود شده را انتخاب کنید و به روی نصب کلیک کنید."
+
+msgid "Payment gateway will be installed in BoxBilling and can be configured in \"Payment gateways\" tab."
+msgstr "درگاه پرداخت به روی باکس بیلینگ نصب خواهد شد و در سربرگ \"درگاه های پرداخت\" قابل تنظیم خواهد بود."
+
+msgid "to learn how to create your own payment gateway and share it with community"
+msgstr "که چگونه می توان درگاه پرداخت دلخواه خود را ساخت"
+
+msgid "Main website"
+msgstr "وب سایت اصلی"
+
+msgid "Loading ..."
+msgstr "در حال بارگذاری ..."
+
+msgid "Help"
+msgstr "یاری"
+
+msgid "Pending approval amount"
+msgstr "در انتظار مقدار مصوب"
+
+msgid "Total approved amount"
+msgstr "کل مقدار مصوب"
+
+msgid "Total paid amount"
+msgstr "کل مقدار پرداخت شده"
+
+msgid "Balance amount"
+msgstr "میزان اعتبار"
+
+msgid "Total clicks"
+msgstr "کل کلیک‌ها"
+
+msgid "Unique clicks"
+msgstr "کلیک های منحصر به فرد"
+
+msgid "Commisions"
+msgstr "کمیسیون ها"
+
+msgid "Invoices waiting for your payment"
+msgstr "فاکتور هایی که در انتظار پرداخت شما هستند"
+
+msgid "Paid invoices"
+msgstr "فاکتور های پرداخت شده"
+
+msgid "Canned responses"
+msgstr "پاسخ های آماده"
+
+msgid "New response"
+msgstr "پاسخ جدید"
+
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+msgid "oAuth for BoxBilling"
+msgstr "oAuth باکس بیلینگ"
+
+msgid "Google"
+msgstr "گوگل"
+
+msgid "Facebook"
+msgstr "فیسـ‌‌‌‌‌ـبوک"
+
+msgid "Github"
+msgstr "گیتهاب"
+
+msgid "Use third party logins"
+msgstr "استفاده از ورود شخص ثالث"
+
+msgid "Google.com authorization settings"
+msgstr "تنظیمات شناسایی با گوگل"
+
+msgid "Enable Google login"
+msgstr "فعال سازی ورود با اکانت گوگل"
+
+msgid "Client secret"
+msgstr "کد پهنان مشتری"
+
+msgid "Instructions to create Google.com API access"
+msgstr "آموزش تولید API اتصال به گوگل"
+
+msgid "Github.com authorization settings"
+msgstr "تنظیمات شناسایی با Github.com"
+
+msgid "Enable Github login"
+msgstr "فعال سازی ورود Github"
+
+msgid "Client Secret"
+msgstr "کد پنهان مشتری"
+
+msgid "Instructions to register new oAuth application on Github"
+msgstr "آموزش نصب oAuth در Github"
+
+msgid "Facebook.com authorization settings"
+msgstr "تنظیمات شناسایی با فیسبوک"
+
+msgid "Enable Facebook login"
+msgstr "فعال سازی ورود با فیسبوک"
+
+msgid "App ID"
+msgstr "شماره نرم افزار"
+
+msgid "Secret"
+msgstr "سکرت"
+
+msgid "Instructions to create Facebook application"
+msgstr "آموزش ایجاد نرم افزار فیسبوک"
+
+msgid "BoxBilling live demo"
+msgstr "پیشنمایش زنده باکس بیلینگ"
+
+msgid "Payments"
+msgstr "پرداخت ها"
+
+msgid "Logins"
+msgstr "ورود ها"
+
+msgid "Client profile details"
+msgstr "مشخصات پروفایل مشتری"
+
+msgid "Client Profile updated"
+msgstr "پروفایل مشتری بروزشد"
+
+msgid "Other/Unknown"
+msgstr "سایر/ناشناخته"
+
+msgid "Company details"
+msgstr "مشخصات شرکت"
+
+msgid "Address and contact details"
+msgstr "آدرس و اطلاعات تماس"
+
+msgid "Additional settings"
+msgstr "تنظیمات اضافی"
+
+msgid "Alternative ID"
+msgstr "شماره جایگزین"
+
+msgid "Used to identify client on foreign system. Usually used by importers"
+msgstr "برای شناسایی در سیستم های دیگر کاربر دارد. معمولا توسط درون ریز ها استفاده می شود"
+
+msgid "Exempt from tax"
+msgstr "معاف از مالیات"
+
+msgid "Signed up time"
+msgstr "تاریخ ثبت‌نام"
+
+msgid "Password changed"
+msgstr "گذرواژه تغییر یافت"
+
+msgid "Custom fields"
+msgstr "زمینه های دلخواه"
+
+msgid "Use these fields to define custom client details"
+msgstr "از این زمینه ها برای جمع آوری طلاعات بیشتری از مشتریان استفاده کنید"
+
+msgid "Client Profile custom fields updated"
+msgstr "زمینه های دلخواه پروفایل مشتری بروزشد"
+
+msgid "Custom field"
+msgstr "زمینه دلخواه"
+
+msgid "Client payments history"
+msgstr "تاریخچه پرداخت های مشتری"
+
+msgid "Add funds for client"
+msgstr "افزودن اعتبار به مشتری"
+
+msgid "Funds added"
+msgstr "اعتبار افزوده شد"
+
+msgid "Client orders"
+msgstr "سفارشات مشتری"
+
+msgid "Client invoices"
+msgstr "فاکتور های مشتری"
+
+msgid "Client support tickets"
+msgstr "تیکت های پشتیبانی مشتری"
+
+msgid "Logins history"
+msgstr "تاریخچه ورودها"
+
+msgid "Emails sent to client"
+msgstr "ایمیل های ارسال شده به مشتری"
+
+msgid "Download BoxBilling"
+msgstr "دانلود باکس‌بیلینگ"
+
+msgid "Edit product addon"
+msgstr "ویرایش افزودنی محصول"
+
+msgid "Activation"
+msgstr "فعال سازی"
+
+msgid "Icon"
+msgstr "آیکون"
+
+msgid "System settings"
+msgstr "تنظیمات سیستم"
+
+msgid "FTP layer"
+msgstr "اتصال FTP"
+
+msgid "Scheduled tasks"
+msgstr "وظایف برنامه ریزی شده"
+
+msgid "License"
+msgstr "لایسنس"
+
+msgid "Company number, chamber of commerce number"
+msgstr "شماره شرکت، تعداد اتاق بازرگانی"
+
+msgid "VAT number"
+msgstr "شماره مالیات بر ارزش افزوده"
+
+msgid "Bank Account number"
+msgstr "شماره حساب بانکی"
+
+msgid "Signature"
+msgstr "امضا"
+
+msgid "Update settings"
+msgstr "بروزرسانی تنظیمات"
+
+msgid "Company terms of service, legal regulation"
+msgstr "شرایط سرویس دهی شرکت"
+
+msgid "Company privacy policy"
+msgstr "حریم خصوصی شرکت"
+
+msgid "Orders settings"
+msgstr "تنظیمات سفارشات"
+
+msgid "Expiration date"
+msgstr "تاریخ انقضا"
+
+msgid "Invoice settings"
+msgstr "تنظیمات فاکتور"
+
+msgid "Number of days to generate new invoice before order expiration"
+msgstr "تعداد روز هایی که پیش از انقضای محصول فاکتور ایجاد می شود"
+
+msgid "Invoice due days"
+msgstr "فاکتور روز سررسید"
+
+msgid "Auto invoice approval"
+msgstr "تایید خودکار فاکتور"
+
+msgid "Proforma Invoicing / Sequential Invoice Numbering"
+msgstr "فاکتور پروفورما / شماره گذاری متوالی"
+
+msgid "Proforma invoice prefix/series"
+msgstr "سری / پیشوند فاکتور پروفورما"
+
+msgid "Paid invoice prefix/series"
+msgstr "سری / پیشوند فاکتور پرداخت شده"
+
+msgid "Next paid invoice number"
+msgstr "شماره فاکتور پرداخت شده بعدی"
+
+msgid "Refunds settings"
+msgstr "تنظیمات افزایش اعتبار"
+
+msgid "Refunds logic"
+msgstr "استدلال افزایش اعتبار"
+
+msgid "Add funds settings"
+msgstr "تنظیمات افزایش اعتبار"
+
+msgid "Minimum amount for add funds invoice"
+msgstr "حداقل مقدار افزایش اعتبار"
+
+msgid "Unlimited"
+msgstr "نامحدود"
+
+msgid "Maximum amount for add funds invoice"
+msgstr "حداکثر مقدر افزایش اعتبار"
+
+msgid "FTP layer for BoxBilling"
+msgstr "اتصال FTP باکس بیلینگ"
+
+msgid "FTP is used to manage BoxBilling modules and updates."
+msgstr "از FTP برای مدیریت ماژول ها و بروزرسانی های باکس بیلینگ استفاده می شود."
+
+msgid "FTP settings updated"
+msgstr "تنظیمات FTP بروز گردید"
+
+msgid "<strong>FTP Hostname</strong> - can be a numerical URL 127.0.0.1 is the default address for a locally hosted server, it might be this, it might be the full URL as my example above with the File Transfer Protocol (FTP) prefix, it might be the http:// protocol it might be SFTP (secure FTP) even secure http (https). Your host will be able to advise you on the correct format."
+msgstr "<strong>عنوان‌میزبان FTP</strong> - می تواند به صورت یک IP عددی مانند 127.0.0.1 و یا یک آدرس کامل باشد."
+
+msgid "<strong>FTP port</strong> - is nearly always 21 unless the host has changed this they will have notified you of this. Secure FTP generally uses port 22."
+msgstr "<strong>پورت FTP</strong> - معمولا برابر 21 است و در برخی سرور ها 22."
+
+msgid "<strong>FTP user</strong> - In most cases, this is the specific user name your host has set up for you to access your Web site via FTP- It is the name you use in your FTP client. This could be an alphanumeric, it could be your name, even your e-mail address, If you don't know this speak to your host. You may have the facility on your Web account to set up additional FTP users if that is the case (and it's more secure) you are recommended to do this"
+msgstr "<strong>کاربر FTP</strong> - در بیشتر مواقع همان نام کاربری ورود به هاست می باشد."
+
+msgid "<strong>FTP password</strong> - this is the password you enter in your FTP client."
+msgstr "<strong>گذرواژه FTP</strong> - بستگی به کاربر FTP دارد."
+
+msgid "<strong>FTP root</strong> - This is generally the directory in which BoxBilling is installed. This setting is very important to be setup correctly as it very specifically depends on the Host server settings. In can be just / BUT it might be htdocs/boxbilling, public_html/, /public_html/boxbilling or other. It is a variable that BoxBilling has absolutely no control over. You will need to clarify this with your host."
+msgstr "<strong>FTP root</strong> - معمولا محل نصب باکس بیلینگ می باشد. اما می تواند موارد دیگری نیز باشد."
+
+msgid "Setup scheduled tasks to be executed once a day"
+msgstr "راه اندازی وظایف برنامه ریزی شده برای اجرای روزانه"
+
+msgid "Scheduled tasks must be enabled immediately after installation. Cron is responsible for sending your clients reminder about payments, domain renewal notices and many more."
+msgstr "وظایف برنامه ریزی شده می بایست بلافاصله پس از نصب فعال شوند. از این وظایف برای ارسال ایمیل به مشتریان و ... استفاده می شود."
+
+msgid "Timezone"
+msgstr "منطقه زمانی"
+
+msgid "Time on server"
+msgstr "زمان سرور"
+
+msgid "Last time scheduled tasks were executed"
+msgstr "آخرین زمان اجرای وظایف برنامه ریزی شده"
+
+msgid "Scheduled tasks were never executed"
+msgstr "وظایفی که هرگز اجرا نشده اند"
+
+msgid "Unix crontab setup:"
+msgstr "Unix crontab setup:"
+
+msgid "Execute scheduled tasks from browser"
+msgstr "اجرای وظایف از مرورگر"
+
+msgid "Execute now"
+msgstr "اجرا کن"
+
+msgid "After purchase you have received an e-mail with license key. Update license key to unlock all features of BoxBilling"
+msgstr "پس از خرید شما یک ایمیل حاوی کد لایسنس دریافت خواهید کرد. با بروز رسانی کلید لایسنس از محدودیت ها خلاص شوید"
+
+msgid "To change license key, change <em>BB_LICENSE</em> value in <em>bb-config.php</em> file"
+msgstr "برای تغییر کلید لایسنس مقدار <em>BB_LICENSE</em> در <em>bb-config.php</em> را تغییر دهید."
+
+msgid "Licensed to"
+msgstr "لایسنس شده برای:"
+
+msgid "New Addon"
+msgstr "افزودنی جدید"
+
+msgid "Disabled"
+msgstr "غیرفعال"
+
+msgid "After order is placed"
+msgstr "پس از ثبت سفارش"
+
+msgid "After payment is received"
+msgstr "پس از پرداخت هزینه"
+
+msgid "Manual activation"
+msgstr "فعال سازی دستی"
+
+msgid "Sell BoxBilling licenses"
+msgstr "فروش لایسنس باکس بیلینگ"
+
+msgid "1. Configure API"
+msgstr "1. پیکربندی API"
+
+msgid "Test connection"
+msgstr "بررسی اتصال"
+
+msgid "Update API key"
+msgstr "بروز رسانی کلید API"
+
+msgid "2. Become partner"
+msgstr "2.همکار شوید"
+
+msgid "3. Create license product"
+msgstr "3. محصول لایسنس ایجاد کنید"
+
+msgid "Refer and earn recurring commission"
+msgstr "مراجعه و کسب کمیسیون در محدوده زمانی معین"
+
+msgid "Partners profile"
+msgstr "پروفایل همکاران"
+
+msgid "Issue License"
+msgstr "صدور لایسنس"
+
+msgid "Manage licenses"
+msgstr "مدیریت لایسنس‌ها"
+
+msgid "Licenses you have issued"
+msgstr "لایسنس هایی که شما صادر کرده اید"
+
+msgid "Reissue"
+msgstr "صدور مجدد"
+
+msgid "Generate new API key"
+msgstr "ایجاد کلید API جدید"
+
+msgid "Centova Cast order details"
+msgstr "مشخصات سفارش Centova Cast"
+
+msgid "Changing settings does not send actions to CentovaCast server."
+msgstr "تغییر تنظیمات هیچ عملیاتی به سرور Centova Cast ارسال نخواهد کرد."
+
+msgid "Reconfigure"
+msgstr "پیکربندی دوباره"
+
+msgid "Changing CentovaCast server settings."
+msgstr "تغییر تنظیمات سرور Centova Cast"
+
+msgid "Port"
+msgstr "پورت"
+
+msgid "Source password"
+msgstr "گذرواژه منبع"
+
+msgid "Max BitRate"
+msgstr "حداکثر مقدار جابجایی بیت"
+
+msgid "Organization"
+msgstr "ارگان"
+
+msgid "URL"
+msgstr "آدرس"
+
+msgid "Auto rebuild list"
+msgstr "بازسازی خودکار لیست"
+
+msgid "Account details"
+msgstr "مشخصات اکانت"
+
+msgid "Parameter"
+msgstr "پارامتر"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Mass Mail Messages"
+msgstr "ایمیل انبوه"
+
+msgid "Create new mass mail message"
+msgstr "ایجاد ایمیل انبوه جدید"
+
+msgid "Mass Mail Settings"
+msgstr "تنظیمات ایمیل انبوه"
+
+msgid "Client ID to send test email while creating message"
+msgstr "شماره مشتری جهت ارسال ایمیل آزمایشی حین ایجاد پیام"
+
+msgid "Hi,"
+msgstr "سلام،"
+
+msgid "New"
+msgstr "جدید"
+
+msgid "Visit site"
+msgstr "مشاهده سایت"
+
+msgid "Notifications"
+msgstr "اطلاع رسانی ها"
+
+msgid "Inquiries"
+msgstr "سوالات"
+
+msgid "Anouncements"
+msgstr "اطلاعیه ها"
+
+msgid "Become a member and discuss in forums"
+msgstr "عضو شوید و در انجمن ها حضور یابید"
+
+msgid "Braunstein extension settings"
+msgstr "تنظیمات افزودنی Braunstein "
+
+msgid "Required fields for client"
+msgstr "فیلد های الزامی برای مشتریان"
+
+msgid "Select which fields are required to be filled up by client on signup form"
+msgstr "انتخاب کنید کدام فیلد ها باید توسط مشتری الزاما تکمیل شود"
+
+msgid "Company name"
+msgstr "نام تجاری"
+
+msgid "Gender"
+msgstr "جنسیت"
+
+msgid "Address details"
+msgstr "جزئیات آدرس"
+
+msgid "Address line 1"
+msgstr "آدرس یک"
+
+msgid "Address line 2"
+msgstr "آدرس دو"
+
+msgid "Postcode/Zip"
+msgstr "کد پستی"
+
+msgid "BoxBilling full feature list"
+msgstr "لیست کامل امکانات باکس بیلینگ"
+
+msgid "Select Slots"
+msgstr "انتخاب اسلات ها"
+
+msgid "Earnings"
+msgstr "درآمد ها"
+
+msgid "API Key"
+msgstr "کلید API"
+
+msgid "External application can control every aspect of BoxBilling using this API key."
+msgstr "سایر نرم افزار ها می توانند تمامی جوانب باکس بیلینگ را با این کلید API کنترل کنند."
+
+msgid "Generate new key"
+msgstr "ایجاد کلید جدید"
+
+msgid "Change your avatar at"
+msgstr "آواتار خود را تغییر دهید در"
+
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+msgid "Server manager"
+msgstr "مدیریت کننده سرور"
+
+msgid "Access Hash (Instead of password for cPanel servers)"
+msgstr "کد دسترسی (جایگزین گذرواژه در سرور های cPanel)"
+
+msgid "Connection port"
+msgstr "پورت اتصال"
+
+msgid "Use Secure connection"
+msgstr "استفاده از اتصال امن"
+
+msgid "Update and test connection"
+msgstr "بروز رسانی و آزمایش اتصال"
+
+msgid "Update server"
+msgstr "بروز رسانی سرور"
+
+msgid "Hosting plans and servers"
+msgstr "بسته های میزبانی و سرور ها"
+
+msgid "New server"
+msgstr "سرور جدید"
+
+msgid "New server manager"
+msgstr "کنترل پنل جدید سرور"
+
+msgid "Servers"
+msgstr "سرورها"
+
+msgid "Hosting plans"
+msgstr "بسته های میزبانی"
+
+msgid "Addon domains"
+msgstr "Addon دامنه‌ها"
+
+msgid "Unique name to identify this server"
+msgstr "عنوان نمایشی سرور برای شناسایی"
+
+msgid "server1.yourserverdomain.com"
+msgstr "server1.yourserverdomain.com"
+
+msgid "Primary IP address of the server used to connect to it like: 123.123.123.123"
+msgstr "آدرس IP اصلی برای اتصال به سرور استفاده می شود و مانند این است: 123.123.123.123"
+
+msgid "Assigned IP Addresses"
+msgstr "آدرس های IP اختصاص داده شده"
+
+msgid "List the IP Addresses assigned to the server (One per line)"
+msgstr "لیست IP های اختصاص شده به سرور (هر خط یکی)"
+
+msgid "ns1.yourdomain.com"
+msgstr "ns1.yourdomain.com"
+
+msgid "ns2.yourdomain.com"
+msgstr "ns2.yourdomain.com"
+
+msgid "ns3.yourdomain.com"
+msgstr "ns3.yourdomain.com"
+
+msgid "ns4.yourdomain.com"
+msgstr "ns4.yourdomain.com"
+
+msgid "Login username to your server: root/reseller"
+msgstr "نام کاربری ورود به سرور: روت/نماینده"
+
+msgid "Login password to your server"
+msgstr "گذرواژه ورود به سرور"
+
+msgid "Access Hash (Insted of password for cPanel servers)"
+msgstr "کد دسترسی (جایگزین گذرواژه در سرور های cPanel)"
+
+msgid "Add server"
+msgstr "افزودن سرور"
+
+msgid "Adding new hosting plan"
+msgstr "افزودن بسته میزبانی جدید"
+
+msgid "Depending on server manager used to setup hosting account you may require provide additional parameters in next step. In this step provide basic hosting plan information."
+msgstr "بسته به کنترل پنل سرور شما، شما نیاز به تنظیم پارامتر های اضافی دیگری دارید. در مرحله بعدی این اطلاعات را کامل کنید."
+
+msgid "Unique name to identify this hosting plan"
+msgstr "نام نمایشی بسته میزبانی"
+
+msgid "Disk quota (MB)"
+msgstr "سهمیه دیسک (مگابایت)"
+
+msgid "Bandwidth (MB)"
+msgstr "پهنای باند (مگابایت)"
+
+msgid "Create hosting plan"
+msgstr "تغییر بسته میزبانی"
+
+msgid "Adding new server manager"
+msgstr "افزودن کنترل پنل سرور جدید"
+
+msgid "Follow these instructions to install new hosting server manager."
+msgstr "این مراحل را برای نصب کنترل پنل سرور جدید دنبال کنید."
+
+msgid "Check for server manager extensions at"
+msgstr "بررسی کنید که آیا افزودنی کنترل پنل شما موجود است در"
+
+msgid "Download server manager extension file and place it to"
+msgstr "پرونده افزودنی را دانلود کنید و قرار دهید در"
+
+msgid "Server manager gateway will be automatically detected."
+msgstr "درگاه کنترل پنل سرور به صورت خودکار شناسایی خواهد شد."
+
+msgid "You can now create/edit servers with new server manager."
+msgstr "شما هم اکنون می توانید با استفاده از این کنترل پنل سرور ایجاد/ویرایش کنید."
+
+msgid "to learn how to create your own server manager and share it with community"
+msgstr "که چگونه می توان افزودنی کنترل پنل خود را طراحی و منتشر کرد"
+
+msgid "Client area themes"
+msgstr "پوسته های محیط کاربری"
+
+msgid "Admin area themes"
+msgstr "پوسته های محیط مدیریت"
+
+msgid "New theme"
+msgstr "پوسته جدید"
+
+msgid "Adding new client area theme"
+msgstr "افزودن پوسته جدید محیط کاربری"
+
+msgid "Follow these instructions to install new client area theme."
+msgstr "این مراحل را برای نصب پوسته جدید محیط کاربری دنبال کنید."
+
+msgid "Check for client area themes at"
+msgstr "پوسته مورد نظر خود را بیابید در"
+
+msgid "Upload new theme files to"
+msgstr "پوسته جدید را آپلود کنید در"
+
+msgid "and reload this page"
+msgstr "و این صفحه را بروزآوری کنید"
+
+msgid "Client area theme will appear in &quot;Client area themes&quot; tab. And you can select it as default"
+msgstr "پوسته به صورت خودکار در سربرگ &quot;پوسته های محیط کاربری&quot; نمایان خواهد شد و شما می توانید آن را به عنوان پیشفرض انتخاب کنید."
+
+msgid "For theme designers. Read"
+msgstr "طراحان پوسته بخوانند"
+
+msgid "to learn how to create your own theme"
+msgstr "که چگونه می توان برای باکس بیلینگ پوسته طراحی کرد"
+
+msgid "Adding new admin area theme"
+msgstr "افزودن پوسته جدید محیط مدیریت"
+
+msgid "Admin area follows same logic as client area themes with one additional rule: admin theme directory must be prefixed with &quot;admin_&quot;."
+msgstr "پوسته مدیریت مانند پوسته محیط کاربری است اما با یک قانون اضافه: عنوان پوشه پوسته باید در ابتدا دارای عبارت &quot;admin_&quot;. باشد."
+
+msgid "Support ticket"
+msgstr "تیکت پشتیبانی"
+
+msgid "Staff member"
+msgstr "کارمند"
+
+msgid "Announcement"
+msgstr "اطلاعیه"
+
+msgid "Knowledge base article"
+msgstr "مقاله دانش نامه"
+
+msgid "Forum topic"
+msgstr "تایپک انجمن"
+
+msgid "Filter invoices"
+msgstr "فیلتر فاکتورها"
+
+msgid "Nr"
+msgstr "Nr"
+
+msgid "All statuses"
+msgstr "تمامی ارقام"
+
+msgid "Refunded"
+msgstr "افزایش اعتبار ها"
+
+msgid "Issue date"
+msgstr "تاریخ سررسید"
+
+msgid "Unpaid invoices"
+msgstr "فاکتور های پرداخت نشده"
+
+msgid "Refunded invoices"
+msgstr "فاکتور های افزایش اعتبار"
+
+msgid "New Invoice"
+msgstr "فاکتور جدید"
+
+msgid "Prepare"
+msgstr "آماده"
+
+msgid "New note"
+msgstr "یادداشت جدید"
+
+msgid "Delete all messages"
+msgstr "حذف تمامی پیام ها"
+
+msgid "Add note or todo task"
+msgstr "افزودن یاداشت یا وظیفه TODO"
+
+msgid "Transaction"
+msgstr "تراکنش"
+
+msgid "IPN"
+msgstr "IPN"
+
+msgid "Transaction details"
+msgstr "مشخصات تراکنش"
+
+msgid "If you are sure that this transaction is valid you can update transaction details in &quot;Manage&quot; tab and try processing transaction again"
+msgstr "اگر مطمئن هستید که این تراکنش معتبر است در سربرگ &quot;مدیریت&quot; مشخصات آن را بروز کنید و پس از آن، آن را پردازش کنید."
+
+msgid "Transaction ID on payment gateway"
+msgstr "شماره تراکنش در درگاه پرداخت"
+
+msgid "Transaction status on payment gateway"
+msgstr "وضعیت تراکنش در درگاه پرداخت"
+
+msgid "Process"
+msgstr "پردازش"
+
+msgid "Invoice ID"
+msgstr "شماره فاکتور"
+
+msgid "Transaction processing information"
+msgstr "تراکنش در حال پردازش اطلاعات است"
+
+msgid "Validate IPN"
+msgstr "اعتبارسنجی IPN"
+
+msgid "Transaction information on payment gateway"
+msgstr "اطلاعات تراکنش در درگاه پرداخت"
+
+msgid "Transaction type"
+msgstr "نوع تراکنش"
+
+msgid "Transaction status on Payment Gateway"
+msgstr "وضعیت تراکنش در درگاه پرداخت"
+
+msgid "Transaction ID on Payment Gateway"
+msgstr "شماره تراکنش در درگاه پرداخت"
+
+msgid "Note about this transaction"
+msgstr "یادداشت های این تراکنش"
+
+msgid "GET"
+msgstr "GET"
+
+msgid "No GET parameters received"
+msgstr "هیچ پارامتر GETی دریافت نشد"
+
+msgid "POST"
+msgstr "POST"
+
+msgid "No POST parameters received"
+msgstr "هیچ پارامتر POSTی دریافت نشد"
+
+msgid "SERVER"
+msgstr "SERVER"
+
+msgid "No SERVER parameters logged"
+msgstr "هیچ پارامتر SERVERی ثبت نشد"
+
+msgid "BoxBilling forum"
+msgstr "انجمن باکس‌بیلینگ"
+
+msgid "My favorite topics"
+msgstr "تایپک های محبوب من"
+
+msgid "Payment type"
+msgstr "نوع پرداخت"
+
+msgid "Setup price"
+msgstr "هزینه راه اندازی"
+
+msgid "One time"
+msgstr "یکبار"
+
+msgid "Price for period"
+msgstr "هزینه دوره"
+
+msgid "First payment sum"
+msgstr "مجموع آخرین پرداخت"
+
+msgid "On"
+msgstr "بر"
+
+msgid "Weekly"
+msgstr "هفتگی"
+
+msgid "Monthly"
+msgstr "ماهانه"
+
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+msgid "Upgrades"
+msgstr "ارتقا ها"
+
+msgid "Links"
+msgstr "پیوند ها"
+
+msgid "Custom order form"
+msgstr "فرم سفارش دلخواه"
+
+msgid "Hidden"
+msgstr "پنهان"
+
+msgid "Browse"
+msgstr "جستجو"
+
+msgid "Slug"
+msgstr "نامک"
+
+msgid "Payment options"
+msgstr "گزینه های پرداخت"
+
+msgid "Product / service description"
+msgstr "توضیحات محصول / سرویس"
+
+msgid "Choose which addons you would like to offer with"
+msgstr "انتخاب کنید چه افزودنی هایی همراه این محصول پیشنهاد شوند"
+
+msgid "Choose which products can client upgrade to"
+msgstr "انتخاب کنید مشتری قادر به ارتقا به کدام محصولات است"
+
+msgid "Product Upgrades"
+msgstr "ارتقا های محصول"
+
+msgid "No additional configuration for this product is required"
+msgstr "هیچ پیکربندی اضافه ای برای این محصول نیاز نیست"
+
+msgid "Product links"
+msgstr "پیوند های محصول"
+
+msgid "Product ID"
+msgstr "شماره محصول"
+
+msgid "Order page with ID"
+msgstr "صفحه سفارش با شماره"
+
+msgid "Order page with slug"
+msgstr "صفحه سفارش با نامک"
+
+msgid "Select icon and click OK"
+msgstr "آیکون را انتخاب و به روی تایید کلیک کنید"
+
+msgid "Lock topic"
+msgstr "قفل کردن تایپک"
+
+msgid "Unlock topic"
+msgstr "بازکردن تایپک"
+
+msgid "Hosting settings"
+msgstr "تنظیمات میزبانی"
+
+msgid "Reseller hosting"
+msgstr "بسته نمایندگی"
+
+msgid "Free domain registration"
+msgstr "ثبت دامنه رایگان"
+
+msgid "Free domain transfer"
+msgstr "انتقال دامنه رایگان"
+
+msgid "Pending approval"
+msgstr "در انتظار تایید"
+
+msgid "Clicks"
+msgstr "کلیک‌ها"
+
+msgid "Joined at"
+msgstr "عضو شده در"
+
+msgid "Parameter key is missing"
+msgstr "کلید پارامتر گم شده "
+
+msgid "_tpl parameter not passed"
+msgstr "پارامتر _tld پذیرفته نشد"
+
+msgid "ID is required"
+msgstr "وارد کردن شماره الزامیست"
+
+msgid "Event not found"
+msgstr "تابع یافت نشد"
+
+msgid "Order id is required"
+msgstr "وارد کردن شماره سفارش الزامیست"
+
+msgid "Centova Cast order not found"
+msgstr "سفارش Centova Cast یافت نشد"
+
+msgid "Order :id is not activated"
+msgstr "سفارش :id فعال نیست"
+
+msgid "CentovaCast product is not configured properly. Field :field is missing"
+msgstr "محصول Centova Cast به درستی پیکربندی نشده است. فیلد :field گم شده است"
+
+msgid "Could not suspend order. Service was not created"
+msgstr "نمی توان سفارش را مسدود کرد. سرویس ایجاد نشده"
+
+msgid "Could not unsuspend order. Service was not created"
+msgstr "نمی توان سفارش را باز کرد. سرویس ایجاد نشده"
+
+msgid "Message from name can not be empty"
+msgstr "نام فرستنده پیام نمی تواند خالی بماند"
+
+msgid "Message subject not passed"
+msgstr "موضوع پیام پذیرفته نشد"
+
+msgid "Add some content before sending message"
+msgstr "پیامی پیش از ارسال تعیین کنید"
+
+msgid "Client ID needs to be configured in mass mailer settings."
+msgstr "شماره مشتری برای پیکربندی تنظیمات ایمیل انبوه نیاز است."
+
+msgid "Message id not passed"
+msgstr "شماره پیام پذیرفته نشد"
+
+msgid "Message not found"
+msgstr "پیام یافت نشد"
+
+msgid "Queue message id is missing"
+msgstr "صفوف پیام گم شده است"
+
+msgid "Queue message not found"
+msgstr "صفوف پیام یافت نشد"
+
+msgid "Queue name not provided"
+msgstr "نام صف ارائه نشده است"
+
+msgid "Module name not provided"
+msgstr "نام ماژول ارائه نشده است"
+
+msgid "Message handler function :method does not exists"
+msgstr "تابع ماژول :method آماده نیست"
+
+msgid "ID or slug is missing"
+msgstr "شماره یا نامک گم شده است"
+
+msgid "News item not found"
+msgstr "آیتم خبر یافت نشد"
+
+msgid "Post id not passed"
+msgstr "شماره ارسال پذیرفته نشد"
+
+msgid "Post not found"
+msgstr "ارسال یافت نشد"
+
+msgid "Post title not passed"
+msgstr "عنوان ارسال پذیرفته نشد"
+
+msgid "Form title was not provided"
+msgstr "عنوان انجمن ارائه نشده است"
+
+msgid "Form id was not passed"
+msgstr "شماره انجمن پذیرفته نشد"
+
+msgid "Form is not valid"
+msgstr "فرم معتبر نیست"
+
+msgid "Form field type was not passed"
+msgstr "نوع فیلد فرم پذیرفته نشد"
+
+msgid "Theme code is missing"
+msgstr "کد پوسته گم شده است"
+
+msgid "You have latest version of BoxBilling. You do not need to update."
+msgstr "شما آخرین نسخه باکس بیلینگ را دارید. نیازی به بروزرسانی نیست."
+
+msgid "Extension id was not passed"
+msgstr "شماره توسعه پذیرفته نشد"
+
+msgid "Extension type was not passed"
+msgstr "نوع توسعه پذیرفته نشد"
+
+msgid "Parameter ext was not passed"
+msgstr "پارامتر ext پذیرفته نشد"
+
+msgid "Extension not found"
+msgstr "توسعه یافت نشد"
+
+msgid "Can not change email. It is already registered."
+msgstr "نمی توان ایمیل را تغییر داد. پیشتر ثبت شده است."
+
+msgid "Password required"
+msgstr "وارد کردن گذرواژه الزامیست"
+
+msgid "Password confiration required"
+msgstr "وارد کردن تایید گذرواژه الزامیست"
+
+msgid "Passwords do not match."
+msgstr "گذرواژه ها همخوانی ندارند."
+
+msgid "Client ID or email is required"
+msgstr "وارد کردن شماره مشتری یا ایمیل الزامیست"
+
+msgid "Client not found"
+msgstr "مشتری یافت نشد"
+
+msgid "ID required"
+msgstr "وارد کردن شماره الزامیست"
+
+msgid "Email required"
+msgstr "وارد کردن ایمیل الزامیست"
+
+msgid "First name is required"
+msgstr "وارد کردن نام الزامیست"
+
+msgid "Email is already registered."
+msgstr "ایمیل پیشتر ثبت شده است."
+
+msgid "Client id is missing"
+msgstr "شماره مشتری گم شده است"
+
+msgid "Id required"
+msgstr "وارد کردن شماره الزامیست"
+
+msgid "Client ID is required"
+msgstr "وارد کردن شماره مشتری الزامیست"
+
+msgid "Password confirmation required"
+msgstr "وارد کردن تایید گذرواژه الزامیست"
+
+msgid "Passwords do not match"
+msgstr "گذرواژه ها همخوانی ندارند"
+
+msgid "Balance line not found"
+msgstr "خط اعتبار یافت نشد"
+
+msgid "Amount is required"
+msgstr "وارد کردن مقدار الزامیست"
+
+msgid "Description is required"
+msgstr "وارد کردن توضیحات الزامیست"
+
+msgid "Id not passed"
+msgstr "شماره پذیرفته نشد"
+
+msgid "Group title is missing"
+msgstr "عنوان گروه گم شده است"
+
+msgid "Group id is missing"
+msgstr "شماره گروه گم شده است"
+
+msgid "Group not found"
+msgstr "گروه یافت نشد"
+
+msgid "First name required"
+msgstr "وارد کردن نام الزامیست"
+
+msgid "Email is already registered. You may want to login instead of registering."
+msgstr "ایمیل پیشتر ثبت شده است. ممکن است بخواهید وارد شوید نه اینکه ثبت‌نام کنید."
+
+msgid "Please check your login details"
+msgstr "لطفا اطلاعات ورود خود را بررسی کنید"
+
+msgid "Email not found in our database"
+msgstr "ایمیل در پایگاه داده ما یافت نشد"
+
+msgid "Hash required"
+msgstr "وارد کردن کد دسترسی الزامیست"
+
+msgid "The link have expired or you have already confirmed password reset."
+msgstr "لینک منقضی شده است و یا شما پیشتر بازنشانی گذرواژه را تایید کرده اید."
+
+msgid "Country code is required"
+msgstr "وارد کردن کد کشور الزامیست"
+
+msgid "Title is required"
+msgstr "وارد کردن عنوان الزامیست"
+
+msgid "Type is required"
+msgstr "وارد کردن نوع الزامیست"
+
+msgid "Product Category Id is required"
+msgstr "وارد کردن شماره دسته‌بنید محصول الزامیست"
+
+msgid "You have already created domain product."
+msgstr "شما پیشتر محصول دامنه را ایجاد کرده اید."
+
+msgid "Pricing type is required"
+msgstr "وارد کردن نوع هزینه الزامیست"
+
+msgid "priority params is missing"
+msgstr "پارامتر های اهمیت گم شده است"
+
+msgid "Addon id is required"
+msgstr "وارد کردن شماره افزودنی الزامیست"
+
+msgid "Addon not found"
+msgstr "افزودنی یافت نشد"
+
+msgid "Category id is missing"
+msgstr "شماره دسته بندی گم شده است"
+
+msgid "Category not found"
+msgstr "دسته بندی یافت نشد"
+
+msgid "Category title is missing"
+msgstr "عنوان دسته‌بندی گم شده است"
+
+msgid "Promo code is missing"
+msgstr "کوپن تخفیف گم شده است"
+
+msgid "Promo type is missing"
+msgstr "نوع کوپن گم شده است"
+
+msgid "Promo value is missing"
+msgstr "مقدار کوپن گم شده است"
+
+msgid "Promo id is missing"
+msgstr "شماره کوپن گم شده است"
+
+msgid "Promo not found"
+msgstr "کوپن یافت نشد"
+
+msgid "Product id not passed"
+msgstr "شماره محصول پذیرفته نشد"
+
+msgid "Product ID or slug is missing"
+msgstr "شماره محصول یا نامک آن گم شده است"
+
+msgid "Email ID is required"
+msgstr "وارد کردن ایمیل الزامیست"
+
+msgid "Email not found"
+msgstr "ایمیل یافت نشد"
+
+msgid "Receiver Email is required"
+msgstr "وارد کردن ایمیل گیرنده الزامیست"
+
+msgid "Receiver Name is required"
+msgstr "وارد کردن نام گیرنده الزامیست"
+
+msgid "Sender Name is required"
+msgstr "وارد کردن نام فرستنده الزامیست"
+
+msgid "Sender email is required"
+msgstr "وارد کردن ایمیل فرستنده الزامیست"
+
+msgid "Email subject is required"
+msgstr "وارد کردن موضوع ایمیل الزامیست"
+
+msgid "Email content is required"
+msgstr "وارد کردن محتویات الزامیست"
+
+msgid "Email template ID is required"
+msgstr "وارد کردن شماره قالب ایمیل الزامیست"
+
+msgid "Email template not found"
+msgstr "قالب ایمیل یافت نشد"
+
+msgid "Email template code is required"
+msgstr "وارد کردن کد قالب ایمیل الزامیست"
+
+msgid "Email template subject is required"
+msgstr "وارد کردن موضوع قالب ایمیل الزامیست"
+
+msgid "Email template content is required"
+msgstr "وارد کردن محتویات قالب ایمیل الزامیست"
+
+msgid "Template code not passed"
+msgstr "کد قالب پذیرفته نشد"
+
+msgid "Receiver is not defined. Define to or to_client or to_staff parameter"
+msgstr "گیرنده تعیین نشده است. تعیین کنید که به مشتریان ارسال شود و یا کارمند."
+
+msgid "Email template code was not passed"
+msgstr "کد قالب ایمیل پذیرفته نشد"
+
+msgid "Email template :code was not found"
+msgstr "قالب ایمیل :code یافت نشد"
+
+msgid "Akismet detected this message is spam"
+msgstr "اکیسمت این پیام را به عنوان اسپم شناسایی کرد"
+
+msgid "To use reCAPTCHA you must get an API key from <a href='https://www.google.com/recaptcha/admin/create'>https://www.google.com/recaptcha/admin/create</a>"
+msgstr "برای استفاده از reCAPTCHA شما باید به <a href='https://www.google.com/recaptcha/admin/create'>https://www.google.com/recaptcha/admin/create</a> مراجعه کرده و کد خود را دریافت کنید."
+
+msgid "Captcha verification failed."
+msgstr "تایید کد امنیتی ناموفق بود."
+
+msgid "Your Username is blacklisted in global database"
+msgstr "نام کاربری شما در لیست سیاه ما قرار دارد"
+
+msgid "Your Email is blacklisted in global database"
+msgstr "ایمیل شما در لیست سیاه ما قرار دارد"
+
+msgid "Your IP is blacklisted in global database"
+msgstr "IP شما در لیست سیاه ما قرار دارد"
+
+msgid "path parameter is missing"
+msgstr "پارامتر آدرس گم شده است"
+
+msgid "Data parameter is missing"
+msgstr "پارامتر اطلاعات گم شده است"
+
+msgid "Path parameter is missing"
+msgstr "پارامتر آدرس گم شده است"
+
+msgid "Type parameter is missing"
+msgstr "نوع پارامتر گم شده است"
+
+msgid "Unknow item type"
+msgstr "نوع آیتم ناشناخته"
+
+msgid "To parameter is missing"
+msgstr "پارامتر گم شده است"
+
+msgid "File does not exist"
+msgstr "فایل موجود نیست"
+
+msgid "Ticket id required"
+msgstr "وارد کردن شماره تیکت الزامیست"
+
+msgid "Ticket not found"
+msgstr "تیکت یافت نشد"
+
+msgid "Ticket content required"
+msgstr "وارد کردن محتویات تیکت الزامیست"
+
+msgid "Ticket subject required"
+msgstr "وارد کردن موضوع تیکت الزامیست"
+
+msgid "Ticket support_helpdesk_id required"
+msgstr "وارد کردن شماره مرکز پشتیبانی تیکت الزامیست"
+
+msgid "Helpdesk invalid"
+msgstr "مرکز پشتیبانی نامعتبر"
+
+msgid "We have already received this request."
+msgstr "ما پیشتر این درخواست را دریافت کرده ایم."
+
+msgid "Ticket ID required"
+msgstr "وارد کردن شماره تیکت الزامیست"
+
+msgid "Ticket can not be reopened."
+msgstr "تیکت نمی تواند بازگشایی شود."
+
+msgid "Ticket id is missing"
+msgstr "شماره تیکت گم شده است"
+
+msgid "Ticket message id is missing"
+msgstr "شماره پیام تیکت گم شده است"
+
+msgid "Ticket message content is missing"
+msgstr "محتویات تیکت گم شده است"
+
+msgid "Ticket message not found"
+msgstr "تیکت یافت نشد"
+
+msgid "Client name parameter is missing"
+msgstr "پارامتر نام مشتری گم شده است"
+
+msgid "Client email parameter is missing"
+msgstr "پارامتر ایمیل مشتری گم شده است"
+
+msgid "Subject parameter is missing"
+msgstr "پارامتر موضوع گم شده است"
+
+msgid "Ticket message is missing"
+msgstr "تیکت گم شده است"
+
+msgid "Help desk id is missing"
+msgstr "شماره مرکز پشتیبانی گم شده است"
+
+msgid "Help desk not found"
+msgstr "مرکز پشتیبانی یافت نشد"
+
+msgid "Help desk title is missing"
+msgstr "عنوان مرکز پشتیبانی گم شده است"
+
+msgid "Canned reply id is missing"
+msgstr "شماره پاسخ آماده گم شده است"
+
+msgid "Canned reply not found"
+msgstr "پاسخ آماده یافت نشد"
+
+msgid "Canned reply title is missing"
+msgstr "عنوان پاسخ آماده گم شده است"
+
+msgid "Canned reply category id is missing"
+msgstr "شماره پاسخ آماده گم شده است"
+
+msgid "Canned category id is missing"
+msgstr "شماره دسته بندی پاسخ آماده گم شده است"
+
+msgid "Canned category not found"
+msgstr "دسته بندی پاسخ آماده یافت نشد"
+
+msgid "Canned category title is missing"
+msgstr "عنوان دسته بندی پاسخ آماده گم شده است"
+
+msgid "ticket_id is missing"
+msgstr "شماره تیکت گم شده است"
+
+msgid "note is missing"
+msgstr "note گم شده است"
+
+msgid "Note id is missing"
+msgstr "شماره Note گم شده است"
+
+msgid "Note not found"
+msgstr "Note یافت نشد"
+
+msgid "Please enter your name"
+msgstr "لطفا نام خود را وارد کنید"
+
+msgid "Please enter your email"
+msgstr "لطفا ایمیل خود را وارد کنید"
+
+msgid "Please enter your subject"
+msgstr "لطفا موضوع را وارد کنید"
+
+msgid "Please enter your message"
+msgstr "لطفا پیام خود را وارد کنید"
+
+msgid "Public ticket hash required"
+msgstr "وارد کردن کد دسترسی تیکت عمومی الزامیست"
+
+msgid "Public ticket not found"
+msgstr "تیکت عمومی یافت نشد"
+
+msgid "message required"
+msgstr "وارد کردن پیام الزامیست"
+
+msgid "Message can not be blank"
+msgstr "پیام نمی تواند خالی بماند"
+
+msgid "ID is missing"
+msgstr "شماره گم شده است"
+
+msgid "Staff member not found"
+msgstr "کارمند یافت نشد"
+
+msgid "Email param is missing"
+msgstr "پارامتر ایمیل گم شده است"
+
+msgid "Password param is missing"
+msgstr "پارامتر گذرواژه گم شده است"
+
+msgid "Name param is missing"
+msgstr "پارامتر نام گم شده است"
+
+msgid "Staff group is missing"
+msgstr "گروه کارمندان گم شده است"
+
+msgid "Administrator account already exists"
+msgstr "اکانت مدیریت پیشتر موجود است"
+
+msgid "Administrator email is missing."
+msgstr "ایمیل مدیریت گم شده است."
+
+msgid "Administrator password is missing."
+msgstr "گذرواژه مدیریت گم شده است."
+
+msgid "Check your login details"
+msgstr "اطلاعات ورود خود را بررسی کنید."
+
+msgid "BoxBilling license order not found"
+msgstr "سفارش لایسنس باکس بیلینگ یافت نشد"
+
+msgid "Order is not activated"
+msgstr "سفارش فعال نشده است"
+
+msgid "Forum not found"
+msgstr "انجمن یافت نشد"
+
+msgid "Forum Topic not found"
+msgstr "تایپک انجن یافت نشد"
+
+msgid "Forum ID not passed"
+msgstr "شماره انجمن پذیرفته نشد"
+
+msgid "Forum topic not passed"
+msgstr "تایپک انجمن پذیرفته نشد"
+
+msgid "Forum message not passed"
+msgstr "پیام انجمن پذیرفته نشد"
+
+msgid "Your message is too short"
+msgstr "پیام شما بسیار کوتاه است"
+
+msgid "Forum is locked. No new topics can be started"
+msgstr "انجمن بسته شده است. هیچ تایپک جدیدی نمی تواند ایجاد شود"
+
+msgid "Forum Topic ID not passed"
+msgstr "شماره تایپک انجمن پذیرفته نشد"
+
+msgid "Topic message not passed"
+msgstr "پیام تایپک پذیرفته نشد"
+
+msgid "Forum topic is locked. No new message can be posted"
+msgstr "تایپک قفل شده است. هیچ پیام جدیدی نمی تواند ارسال شود"
+
+msgid "Forum id missing"
+msgstr "شماره انجمن گم شده است"
+
+msgid "Forum title is missing"
+msgstr "عنوان انجمن گم شده است"
+
+msgid "Topic id is missing"
+msgstr "شماره تایپک گم شده است"
+
+msgid "Forum topic title not passed"
+msgstr "عنوان تایپک انجمن پذیرفته نشد"
+
+msgid "Forum topic message not passed"
+msgstr "پیام تایپک پذیرفته نشد"
+
+msgid "Forum topic id missing"
+msgstr "شماره تایپک گم شده است"
+
+msgid "Forum Topic message ID not passed"
+msgstr "شماره پیام تیکت پذیرفته نشد"
+
+msgid "Forum Topic Message not found"
+msgstr "پیام تایپک یافت نشد"
+
+msgid "Forum Topic message not found"
+msgstr "پیام تایپک یافت نشد"
+
+msgid "Enter some keywords for search"
+msgstr "کلمات کلیدی مورد نظر خود را وارد کنید"
+
+msgid "Search keyword must be longer than 3 characters"
+msgstr "عبارت جستجو شده باید بیش از سه کاراکتر باشد"
+
+msgid "File can not be downloaded at the moment. Please contact support"
+msgstr "فایل هم اکنون قابل دانلود نیست. لطفا با پشتیبانی تماس بگیرید"
+
+msgid "Order not found"
+msgstr "سفارش یافت نشد"
+
+msgid "File was not uploaded"
+msgstr "پرونده آپلود نشده است"
+
+msgid "Error uploading file"
+msgstr "خطا در آپلود فایل"
+
+msgid "Product is not configured completely."
+msgstr "محصول به درستی پیکربندی نشده است."
+
+msgid "plan_id is missing"
+msgstr "شماره بسته گم شده است"
+
+msgid "Hosting plan not found"
+msgstr "بسته میزبانی یافت نشد"
+
+msgid "Server name is missing"
+msgstr "نام سرور گم شده است"
+
+msgid "Server IP is missing"
+msgstr "IP سرور گم شده است"
+
+msgid "Server manager is missing"
+msgstr "کنترل پنل سرور گم شده است"
+
+msgid "Server id is missing"
+msgstr "شماره سرور گم شده است"
+
+msgid "Server not found"
+msgstr "سرور یافت نشد"
+
+msgid "Hosting plan id is missing"
+msgstr "شماره بسته میزبانی گم شده است"
+
+msgid "Hosting plan name is missing"
+msgstr "نام بسته میزبانی گم شده است"
+
+msgid "Hoting plan name can not be empty"
+msgstr "نام بسته میزبانی نمی تواند خالی بماند."
+
+msgid ":hosting for :domain"
+msgstr ":hosting برای :domain"
+
+msgid "Notification id is missing"
+msgstr "شماره اطلاع رسانی گم شده است"
+
+msgid "Notification message was not found"
+msgstr "پیام اطلاع رسانی یافت نشد"
+
+msgid "Unknown API call :call"
+msgstr "درخواست ناشناخته API: :call"
+
+msgid "Unauthorized IP"
+msgstr "IP ناشناخته"
+
+msgid "Request limit reached"
+msgstr "حد درخواست رسید"
+
+msgid "Unknow API call"
+msgstr "درخواست ناشناخته API"
+
+msgid "Authentication Failed"
+msgstr "اعتبارسنجی ناموفق بود"
+
+msgid "Client API can be initiated"
+msgstr "API مشتری ایجاد نشد"
+
+msgid "Hook event not passed"
+msgstr "رخداد پذیرفته نشد"
+
+msgid "Param mod not passed"
+msgstr "پارامتر ماژول پذیرفته نشد"
+
+msgid "Article id not passed"
+msgstr "شماره مقاله پذیرفته نشد"
+
+msgid "Article not found"
+msgstr "مقاله یافت نشد"
+
+msgid "Article category id not passed"
+msgstr "شماره دسته بندی پذیرفته نشد"
+
+msgid "Article title not passed"
+msgstr "عنوان مقاله پذیرفته نشد"
+
+msgid "Article id is missing"
+msgstr "شماره مقاله گم شده است"
+
+msgid "Caegory id not passed"
+msgstr "شماره دسته‌بندی پذیرفته نشد"
+
+msgid "Article Category not found"
+msgstr "دسته بندی مقاله یافت نشد"
+
+msgid "Category title not passed"
+msgstr "عنوان دسته‌بندی پذیرفته نشد"
+
+msgid "Article item not found"
+msgstr "آیتم مقاله یافت نشد"
+
+msgid "Category ID or slug is missing"
+msgstr "شماره دسته بندی یا نامک گم شده است"
+
+msgid "Knowledge base category not found"
+msgstr "دسته بندی دانش نامه یافت نشد"
+
+msgid "Invoice hash not passed"
+msgstr "کد دسترسی فاکتور پذیرفته نشد"
+
+msgid "Invoice was not found"
+msgstr "فاکتور یافت نشد"
+
+msgid "Order id required"
+msgstr "وارد کردن شماره سفارش الزامی می باشد."
+
+msgid "Order :id is free. No need to generate invoice."
+msgstr "سفارش :id رایگان است. هیچ فاکتوری ایجاد نشده است."
+
+msgid "Invoice is related to order #:id. Please cancel order first."
+msgstr "این فاکتور با سفارش #:id مرتبط است. ابتدا سفارش را لغو کنید."
+
+msgid "Invoice id not passed"
+msgstr "شماره فاکتور پذیرفته نشد."
+
+msgid "Invoice item id not passed"
+msgstr "شماره آیتم فاکتور پذیرفته نشد."
+
+msgid "Invoice item was not found"
+msgstr "آیتم فاکتور یافت نشد"
+
+msgid "Transaction id is missing"
+msgstr "شماره تراکنش گم شده است"
+
+msgid "Transaction not found"
+msgstr "تراکنش یافت نشد"
+
+msgid "Transaction invoice id is missing"
+msgstr "شماره فاکتور تراکنش گم شده است"
+
+msgid "Payment gateway id is missing"
+msgstr "شماره درگاه پرداخت گم شده است"
+
+msgid "Gateway was not found"
+msgstr "درگاه یافت نشد"
+
+msgid "Payment gateway code is missing"
+msgstr "کد درگاه پرداخت گم شده است"
+
+msgid "Payment gateway is not available for installation."
+msgstr "درگاه پرداخت قابل نصب نیست."
+
+msgid "Gateway id not passed"
+msgstr "شماره درگاه پذیرفته نشد"
+
+msgid "Gateway not found"
+msgstr "درگاه یافت نشد"
+
+msgid "Client id not passed"
+msgstr "شماره مشتری پذیرفته نشد"
+
+msgid "Payment gateway id not passed"
+msgstr "شماره درگاه پرداخت پذیرفته نشد"
+
+msgid "Subscription currency not passed"
+msgstr "اشتراک ارز پذیرفته نشد"
+
+msgid "Payment gateway not found"
+msgstr "درگاه پرداخت یافت نشد"
+
+msgid "Client currency must match subscription currency. Check if clients currency is defined."
+msgstr "ارز مشتری می بایست با ارز اشتراک همخوانی داشته باشد. بررسی کنید که ارز مشتری تعیین شده باشد."
+
+msgid "Subscription id not passed"
+msgstr "شماره اشتراک پذیرفته نشد"
+
+msgid "Subscription not found"
+msgstr "اشتراک یافت نشد"
+
+msgid "Tax id is missing"
+msgstr "شماره مالیات گم شده است"
+
+msgid "Tax rule not found"
+msgstr "قانون مالیات یافت نشد"
+
+msgid "Tax name is missing"
+msgstr "عنوان مالیات گم شده است"
+
+msgid "Tax rate is missing or is not valid"
+msgstr "نرخ مالیات گم شده است و یا معتبر نیست"
+
+msgid "Invoice hash not passed. Missing param hash"
+msgstr "کد دسترسی فاکتور پذیرفته نشد. پارامتر کد دسترسی گم شده"
+
+msgid "Payment method not found. Missing param gateway_id"
+msgstr "متد پرداخت یافت نشد. شماره درگاه پرداخت گم شده"
+
+msgid "Invoice not found"
+msgstr "فاکتور یافت نشد"
+
+msgid "Payment method not found"
+msgstr "متد پرداخت یافت نشد"
+
+msgid "This invoice can't be subscribed"
+msgstr "اشتراک این فاکتور نمی تواند حذف شود"
+
+msgid "API call is missing arguments"
+msgstr "آرگومنت درخواست API گم شده است"
+
+msgid "Currency code is missing"
+msgstr "کد ارز گم شده است"
+
+msgid "Currency not found"
+msgstr "ارز یافت نشد"
+
+msgid "Currency format is missing"
+msgstr "فرمت ارز گم شده است"
+
+msgid "Currency already registered"
+msgstr "ارز پیشتر ثبت شده است"
+
+msgid "Currency code is not valid"
+msgstr "کد ارز معتبر نیست"
+
+msgid "Currency rate is not valid"
+msgstr "نرخ ارز معتبر نیست"
+
+msgid "You have already used this promo code. Please remove promo code and checkout again."
+msgstr "شما پیشتر این کد تخفیف را استفاده کرده اید. لطفا کد تخفیف را حذف کنید و دوباره تلاش کنید."
+
+msgid "Can not checkout empty cart."
+msgstr "سب خرید خالیست!"
+
+msgid "Selected currency :selected does not match your profile currency :code. Please change cart currency to continue."
+msgstr "ارز انتخاب شده با ارز پروفایل شما همخوانی ندارد. لطفا برای ادامه کار ارز سفارش را تغییر دهید."
+
+msgid "Shopping cart id is missing"
+msgstr "شماره سبد خرید گم شده است"
+
+msgid "Shopping cart not found"
+msgstr "سبد خرید یافت نشد"
+
+msgid "Currency code not passed"
+msgstr "کد ارز پذیرفته نشد"
+
+msgid "Promo code not passed"
+msgstr "کد تخفیف قابل استفاده نیست"
+
+msgid "Promo code is expired or does not exist"
+msgstr "کد تخفیف منقضی شده است و یا قابل استفاده نیست"
+
+msgid "Cart item id not passed"
+msgstr "شماره آیتم سبد پذیرفته نشده است"
+
+msgid "Solusvm order not found"
+msgstr "سفارش SolusVM یافت نشد"
+
+msgid "Node is not selected for import."
+msgstr "هیچ Node جهت درون ریزی انتخاب نشده است."
+
+msgid "No servers selected for import."
+msgstr "هیچ سروری برای درون ریزی انتخاب نشده است."
+
+msgid "Select product for orders."
+msgstr "محصولی را برای سفارش انتخاب کنید."
+
+msgid "Product is not configured completely. Please provide solusvm node in product configuration page."
+msgstr "محصول به درستی پیکربندی نشده است. لطفا Node را در صفحه پیکربندی تنظیم کنید."
+
+msgid "Product is not configured completely. Please provide solusvm plan in product configuration page."
+msgstr "محصول به درستی پکیربندی نشده است. لطفا نام بسته در SolusVM را در صفحه پیکربندی تنظیم کنید."
+
+msgid "No clients selected for import."
+msgstr "هیچ مشتری برای درون ریزی انتخاب نشده است."
+
+msgid "No clients found on SolusVM server."
+msgstr "هیچ مشتری در سرور SolusVM یافت نشد."
+
+msgid "Virtual private server :title"
+msgstr "سرور مجازی :title"
+
+msgid "Please enter VPS hostname."
+msgstr "لطفا عنوان‌میزبان سرور مجازی را وارد کنید."
+
+msgid "Hostname :hostname is not valid."
+msgstr "عنوان میزبان معتبر نیست."
+
+msgid "Please select VPS template."
+msgstr "لطفا قالب سرور مجازی را انتخاب کنید."
+
+msgid "SolusVM API ID is missing."
+msgstr "شماره API سرور گم شده است."
+
+msgid "SolusVM API KEY is missing."
+msgstr "کلید API سرور گم شده است."
+
+msgid "SolusVM API ipaddress is missing."
+msgstr "آدرس IP کلید API گم شده است."
+
+msgid "SolusVM API secure is missing."
+msgstr "SolusVM API secure is missing."
+
+msgid "SolusVM API port is missing."
+msgstr "پورت API سرور گم شده است."
+
+msgid "Could not activate order because ordered product does not exists"
+msgstr "نمی توان سفارش را فعال کرد. محصول سفارش داده شده آماده نیست"
+
+msgid "Could not activate order. Product :id configuration is missing node parameter"
+msgstr "نمی توان سفارش را فعال کرد. پارامتر Node در پیکربندی محصول :id گم شده است"
+
+msgid "Could not activate order. Product :id configuration is missing plan parameter"
+msgstr "نمی توان سفارش را فعال کرد. پارامتر بسته در پیکربندی محصول :id گم شده است"
+
+msgid "Could not activate order. Product :id configuration is missing virtualization type parameter"
+msgstr "نمی توان سفارش را فعال کرد. پارامتر نوع مجازی سازی در پیکربندی محصول :id گم شده است"
+
+msgid "Could not activate order. Product :id configuration is missing ips amount parameter"
+msgstr "نمی توان سفارش را فعال کرد. IP ها در پیکربندی محصول :id گم شده اند"
+
+msgid "Root password must be longer than 4 symbols"
+msgstr "گذرواژه روت باید بیش از 4 کاراکتر داشته باشد"
+
+msgid "Plan name must not be empty"
+msgstr "عنوان بسته نباید خالی بماند"
+
+msgid "Hostname must not be empty"
+msgstr "عنوان میزبان نباید خالی بماند"
+
+msgid "Template must not be empty"
+msgstr "قالب نباید خالی بماند"
+
+msgid "Password must be longer than 4 symbols"
+msgstr "گذرواژه باید بیش از 4 کاراکتر باشد"
+
+msgid "TLD is missing"
+msgstr "پسوند گم شده است"
+
+msgid "Tld already registered"
+msgstr "پسوند پیشتر ثبت شده است"
+
+msgid "TLD registrar id is missing"
+msgstr "شماره ثبت کننده پسوند گم شده است"
+
+msgid "Registration price is missing"
+msgstr "هزینه ثبت گم شده است"
+
+msgid "Renewal price is missing"
+msgstr "هزینه انتقال گم شده است"
+
+msgid "Transfer price is missing"
+msgstr "هزینه انتقال گم شده است"
+
+msgid "Registrar code not passed"
+msgstr "کد ثبت کننده پذیرفته نشد"
+
+msgid "Registrar is not available for installation."
+msgstr "ثبت کننده برای نصب معتبر نیست."
+
+msgid "Registrar id not passed"
+msgstr "شماره ثبت کننده پذیرفته نشد"
+
+msgid "Registrar not found"
+msgstr "ثبت کننده یافت نشد"
+
+msgid "Registrar id is missing"
+msgstr "شماره ثبت کننده گم شده است"
+
+msgid "Domain order is not activated"
+msgstr "سفارش دامنه فعال نشده است"
+
+msgid "Tld is required"
+msgstr "وارد کردن پسوند الزامیست"
+
+msgid "Sld is required"
+msgstr "وارد کردن SLD الزامیست"
+
+msgid "Domain :domain is not valid"
+msgstr "دامنه :domain معتبر نمی باشد"
+
+msgid "Domain availability could not be determined. TLD is not active."
+msgstr "نمی توان آزاد بودن دامنه را شناسایی کرد. پسوند فعال نشده است."
+
+msgid "Domain is not available."
+msgstr "دامنه قابل ثبت نیست."
+
+msgid "TLD is not active."
+msgstr "پسوند فعال نشده است."
+
+msgid "Domain can not be transferred."
+msgstr "دامنه نمی تواند منتقل شود."
+
+msgid "Domain :domain registration"
+msgstr "ثبت دامنه :domain"
+
+msgid "Domain :domain transfer"
+msgstr "انتقال دامنه :domain"
+
+msgid "Only pending setup orders can be deleted."
+msgstr "فقط سفارشات در انتظار تایید می توانند حذف شوند."
+
+msgid "This feature is available in BoxBilling PRO version."
+msgstr "این امکان در باکس بیلینگ PRO فراهم است."
+
+msgid "Currency :code not found"
+msgstr "ارز :code یافت نشد"
+
+msgid "Product :id is out of stock."
+msgstr "محصول :id تمام شده است."
+
+msgid "Group ID parameter is missing for addon product order"
+msgstr "پارامتر شماره گروه افزودنی محصول گم شده است"
+
+msgid "Parent order :group_id was not found"
+msgstr "سفارش مادر :group_id یافت نشد"
+
+msgid "Only pending setup or failed orders can be activated"
+msgstr "فقط سفارشات در انتظار تایید یا ناموفق قادر به تایید هستند"
+
+msgid "Only suspended orders can be unsuspended"
+msgstr "فقط سفارشات مسدود شده قادر به بازگشایی هستند"
+
+msgid "Only canceled orders can be uncanceled"
+msgstr "فقط سفارشات لغو شده می توانند باز شوند"
+
+msgid "Order config not passed"
+msgstr "پیکربندی سفارش پذیرفته نشد"
+
+msgid "Order status was not passed"
+msgstr "وضعیت سفارش پذیرفته نشد"
+
+msgid "Order history line id not passed"
+msgstr "شماره تاریخچه سفارش پذیرفته نشد"
+
+msgid "Order history line not found"
+msgstr "تاریخچه سفارش یافت نشد"
+
+msgid "Automatically issue renewal invoices"
+msgstr "صادر کردن خودکار فاکتور های تمدید"
+
+msgid "Issue invoices manually"
+msgstr "صادر کردن دستی فاکتور‌ها"
+
+msgid "Order id not passed"
+msgstr "شماره سفارش پذیرفته نشد"
+
